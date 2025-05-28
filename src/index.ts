@@ -3,24 +3,30 @@ import dotenv from "dotenv";
 import morgan from "morgan";
 import cookieParser from "cookie-parser";
 import db from "./db/connection";
-import { signToken } from "./helpers";
+import cors from "cors";
+import decodeToken from "./middleware/decode-token";
 
 db;
 
 dotenv.config();
 
-const server = express();
+const app = express();
 const router = express.Router();
-const port = process.env.PORT;
+const port = process.env.PORT || 3200;
 
-server.use(morgan("dev"));
-server.use(cookieParser());
+app.use(morgan("dev"));
+app.use(cookieParser());
+app.use(cors());
 
-server.use(async (req, res, next) => {
-  await signToken({g: "5"})
+app.get("/login",(req,res,next)=>{
+  const data = req.body;
+  
   next();
 });
 
-server.listen(port, () => {
+app.use(decodeToken);
+
+
+app.listen(port, () => {
   console.log(`Server running on ${port}`);
 });

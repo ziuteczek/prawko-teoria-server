@@ -14,3 +14,16 @@ export const signToken = async (content: JwtPayload): Promise<string> => {
     );
   });
 };
+export const unsignToken = async (token: string): Promise<JwtPayload | string> => {
+  return new Promise((resolve, reject) => {
+    jwt.verify(token, process.env.JWT_SECRET, (err, content) => {
+      if (err) {
+        reject(err);
+      }
+      if (!content) {
+        reject("content is undefined");
+      }
+      resolve(content as string | JwtPayload);
+    })
+  })
+}
