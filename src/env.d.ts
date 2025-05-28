@@ -4,6 +4,7 @@ declare namespace NodeJS {
     port: number;
     SITE_URL: string;
     APP_URL: string;
+    EMAIL_PASSWORD: string;
   }
 }
 interface userRegisterData {
@@ -14,5 +15,16 @@ interface userRegisterData {
 interface userLoginData {
   email: string;
   password: string;
-  keepLogin: boolean;
+  keepLogin: "on" | undefined;
+}
+interface userTokenData {
+  email: string;
+  id: number;
+}
+interface userDataDB {
+  id: number;
+  email: string;
+  name: string;
+  password: string;
+  created: string;
 }

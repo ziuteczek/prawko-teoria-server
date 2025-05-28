@@ -1,7 +1,7 @@
 PRAGMA foreign_keys = ON;
 CREATE TABLE user (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    email TEXT NOT NULL,
+    email TEXT NOT NULL UNIQUE,
     name TEXT NOT NULL,
     password TEXT NOT NULL,
     created TEXT DEFAULT CURRENT_TIMESTAMP

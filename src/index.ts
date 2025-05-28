@@ -5,8 +5,8 @@ import cookieParser from "cookie-parser";
 import db from "./db/connection";
 import cors from "cors";
 import decodeToken from "./middleware/decode-token";
-
-db;
+import userRegister from "./controller/user_register";
+import userLogin from "./controller/user_login";
 
 dotenv.config();
 
@@ -17,15 +17,13 @@ const port = process.env.PORT || 3200;
 app.use(morgan("dev"));
 app.use(cookieParser());
 app.use(cors());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-app.get("/login",(req,res,next)=>{
-  const data = req.body;
-  
-  next();
-});
+app.post("/login", userLogin);
+app.post("/register", userRegister);
 
 app.use(decodeToken);
-
 
 app.listen(port, () => {
   console.log(`Server running on ${port}`);

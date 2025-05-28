@@ -18,7 +18,6 @@ await db.exec(initQuerySQL)
 if (process.env.MODE === "dev") {
   const dummyDataQuery = readFileSync(`${import.meta.dirname}/sql/dummy.sql`);
   await db.exec(dummyDataQuery.toString());
-  console.log(await db.all("SELECT * FROM user"));
 }
 
 export default db;
