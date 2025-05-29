@@ -66,3 +66,9 @@ export const logErrorDEV = (err: Error | string) => {
     console.error(err);
   }
 };
+
+export const logDEV = (text: string) => {
+  if (process.env.MODE === "dev") {
+    console.log(text);
+  }
+};

@@ -4,6 +4,7 @@ declare namespace NodeJS {
     port: number;
     SITE_URL: string;
     APP_URL: string;
+    SERVER_URL: string;
     EMAIL_PASSWORD: string;
     MODE: "dev" | "prod";
   }

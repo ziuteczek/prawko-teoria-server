@@ -6,6 +6,7 @@ import cors from "cors";
 import decodeToken from "./middleware/decode-token";
 import userRegister from "./controller/user_register";
 import userLogin from "./controller/user_login";
+import userVerify from "./controller/user_verify";
 
 dotenv.config();
 
@@ -21,6 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.post("/login", userLogin);
 app.post("/register", userRegister);
+app.get("/verify", userVerify);
 
 app.use(decodeToken);
 
