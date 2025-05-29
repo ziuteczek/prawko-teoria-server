@@ -60,3 +60,9 @@ export const verifyHash = async (
 ) => {
   return await argon2.verify(hashed, comparator);
 };
+
+export const logErrorDEV = (err: Error | string) => {
+  if (process.env.MODE === "dev") {
+    console.error(err);
+  }
+};

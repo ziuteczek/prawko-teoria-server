@@ -2,7 +2,6 @@ import express from "express";
 import dotenv from "dotenv";
 import morgan from "morgan";
 import cookieParser from "cookie-parser";
-import db from "./db/connection";
 import cors from "cors";
 import decodeToken from "./middleware/decode-token";
 import userRegister from "./controller/user_register";

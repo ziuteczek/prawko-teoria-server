@@ -10,11 +10,21 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
 
   if (!email || !password || !name) {
     res.status(400).send(null);
+
+    if (process.env.MODE === "dev") {
+      console.error("Sufficient data not provided");
+    }
+
     return;
   }
 
   if (!emailRegex.test(email) || !passwordRegex.test(password)) {
     res.status(400).send(null);
+
+    if (process.env.MODE === "dev") {
+      console.error("Email or password wrongly formated");
+    }
+
     return;
   }
 
@@ -28,6 +38,11 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
     await sendVerificationEmail(email);
   } catch (err) {
     res.status(400).send(null);
+
+    if (process.env.MODE === "dev") {
+      console.error(err);
+    }
+
     return;
   }
   res.status(201).send(null);

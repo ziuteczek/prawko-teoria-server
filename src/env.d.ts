@@ -5,6 +5,7 @@ declare namespace NodeJS {
     SITE_URL: string;
     APP_URL: string;
     EMAIL_PASSWORD: string;
+    MODE: "dev" | "prod";
   }
 }
 interface userRegisterData {

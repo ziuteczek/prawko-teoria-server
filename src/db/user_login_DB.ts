@@ -18,7 +18,7 @@ const userLoginDB = async (
 
   const passwordHashed = userData.password;
 
-  if (!verifyHash(passwordHashed, password)) {
+  if (!await verifyHash(passwordHashed, password)) {
     throw new Error("password incorrect");
   }
 
