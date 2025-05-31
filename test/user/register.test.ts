@@ -1,6 +1,11 @@
-import { strictEqual } from "assert";
+import { notStrictEqual, strictEqual } from "assert";
 
-const registerUser = async (email: string, password: string, name: string) => {
+const registerUser = async (
+  email: string,
+  password: string,
+  name: string,
+  positive: boolean = true
+) => {
   const response = await fetch(process.env.SERVER_URL + "/register", {
     method: "POST",
     body: new URLSearchParams({
@@ -12,6 +17,10 @@ const registerUser = async (email: string, password: string, name: string) => {
       "Content-Type": "application/x-www-form-urlencoded",
     },
   });
-  strictEqual(response.status, 201);
+  if (positive) {
+    strictEqual(response.status, 201);
+  } else {
+    notStrictEqual(response.status, 201);
+  }
 };
 export default registerUser;

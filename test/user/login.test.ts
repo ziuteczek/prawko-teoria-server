@@ -1,5 +1,9 @@
-import { strictEqual } from "assert";
-const loginUser = async (email: string, password: string) => {
+import { notStrictEqual, strictEqual } from "assert";
+const loginUser = async (
+  email: string,
+  password: string,
+  positive: boolean = true
+) => {
   const response = await fetch(process.env.SERVER_URL + "/login", {
     method: "POST",
     headers: {
@@ -11,6 +15,10 @@ const loginUser = async (email: string, password: string) => {
       keepLogin: "on",
     }),
   });
-  strictEqual(response.status, 200);
+  if (positive) {
+    strictEqual(response.status, 200);
+  } else {
+    notStrictEqual(response.status, 200);
+  }
 };
 export default loginUser;

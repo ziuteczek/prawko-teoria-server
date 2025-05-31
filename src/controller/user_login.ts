@@ -8,7 +8,7 @@ const userLogin = async (req: Request, res: Response, _: NextFunction) => {
   if (!email || !password || !keepLogin) {
     res.status(400).send(null);
 
-    logErrorDEV("Sufficient xPPP data not provided");
+    logErrorDEV("Sufficient data not provided");
 
     return;
   }

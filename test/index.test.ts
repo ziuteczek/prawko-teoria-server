@@ -1,9 +1,11 @@
 import dotenv from "dotenv";
 import { after, describe, it } from "node:test";
 import app from "../src/app";
-import registerUser from "./user/register.test";
-import verifyUser from "./user/verify.test";
-import loginUser from "./user/login.test";
+
+// User tests
+import register from "./user/register.test";
+import verify from "./user/verify.test";
+import login from "./user/login.test";
 
 const port = 3200;
 
@@ -18,12 +20,35 @@ await (async () => {
 })();
 
 describe("Authorization & authentication", () => {
+  const name = "Stas";
   const email = "elo@gmail.com";
   const password = "EloZel@2ADD31";
-  const name = "Stas";
-  it("Register", async () => await registerUser(email, password, name));
-  it("Verify", async () => await verifyUser(email));
-  it("Login", async () => await loginUser(email, password));
+  const incorrentPassword = password + "elozelo";
+  const unregisteredEmail = "elozelo" + password;
+  const emailWronglyFormated1 = "elozelo";
+  const emailWronglyFormated2 = "elozelo@gmail";
+  const weakPasswords = [
+    "stasio",
+    "stasiobombasio",
+    "Stasiobombasio"
+  ];
+  
+
+  //Succes
+  it("Register", async () => await register(email, password, name));
+  it("Verify", async () => await verify(email));
+  it("Login", async () => await login(email, password));
+
+  //Fail
+  it("Login incorrect email", async () => await login(unregisteredEmail, password, false));
+  it("Login incorrect password", async () => await login("g" + email, incorrentPassword, false));
+  it("Register user already exist", async () => await register(email, password, name, false));
+  it("Register email wrongly foramted", async () => await register(emailWronglyFormated1, password, name, false));
+  it("Register email wrongly foramted", async () => await register(emailWronglyFormated2, password, name, false));
+
+  weakPasswords.forEach((password,i)=>{
+    it(`${i + 1}. Weak password test`, async () => await register(`${i}${email}`, password, name, false));
+  });
 });
 
 after(() => {

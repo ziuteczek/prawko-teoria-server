@@ -64,8 +64,8 @@ export const verifyHash = async (
 
 export const logErrorDEV = (err: Error | string) => {
   const mode = process.env.MODE;
-  if (mode === "dev" || mode === "test") {
-    console.error("ERRORRRRR", err);
+  if (mode === "dev" ) {
+    console.error(err);
   }
 };
 
