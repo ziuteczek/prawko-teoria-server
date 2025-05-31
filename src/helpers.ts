@@ -1,5 +1,6 @@
 import jwt, { JwtPayload } from "jsonwebtoken";
 import argon2 from "argon2";
+import { readFileSync } from "fs";
 
 export const signToken = async (
   content: string | Buffer | object,
@@ -62,13 +63,28 @@ export const verifyHash = async (
 };
 
 export const logErrorDEV = (err: Error | string) => {
-  if (process.env.MODE === "dev") {
-    console.error(err);
+  const mode = process.env.MODE;
+  if (mode === "dev" || mode === "test") {
+    console.error("ERRORRRRR", err);
   }
 };
 
 export const logDEV = (text: string) => {
-  if (process.env.MODE === "dev") {
-    console.log(text);
-  }
+  console.log(text);
 };
+
+// export const getQueryContent = (fileName: string) => {
+//   try {
+//     const queryPath = import.meta.dirname + `/db/sql/${fileName}`;
+//     const query = readFileSync(queryPath).toString();
+
+//     if (!query) {
+//       throw new Error(`Failed reading ${queryPath}`);
+//     }
+
+//     return query;
+//   } catch (err: any) {
+//     logErrorDEV(err);
+//     process.exit(1);
+//   }
+// };

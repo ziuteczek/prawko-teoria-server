@@ -11,7 +11,7 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
   if (!email || !password || !name) {
     res.status(400).send(null);
 
-    logErrorDEV("Sufficient data not provided");
+    logErrorDEV("Sufficient xDDD data not provided");
 
     return;
   }
@@ -22,9 +22,15 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
     return;
   }
 
-  if (await userExist(email)) {
-    res.status(409).send(null);
-    logErrorDEV("user already exist");
+  try {
+    if (await userExist(email)) {
+      res.status(409).send(null);
+      logErrorDEV("user already exist");
+      return;
+    }
+  } catch (err) {
+    res.status(500).send(null);
+    logErrorDEV("Error while searching DB");
     return;
   }
 

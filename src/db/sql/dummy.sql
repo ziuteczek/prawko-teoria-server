@@ -14,7 +14,7 @@ INSERT INTO user (email, name, password) VALUES
 ('judy@example.com', 'Judy Anderson', '$argon2i$v=19$m=16,t=2,p=1$THNYMU5DSG0wTlJjMjhpdA$O+xp23F4XMniAXk1GW22Mw');
 
 -- Insert dummy answers using only the allowed values
-INSERT INTO answer (answer, user_id) VALUES
+INSERT INTO answer (picked_option, user_id) VALUES
 ('A', 1),
 ('B', 1),
 ('Tak', 1),

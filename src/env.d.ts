@@ -6,7 +6,7 @@ declare namespace NodeJS {
     APP_URL: string;
     SERVER_URL: string;
     EMAIL_PASSWORD: string;
-    MODE: "dev" | "prod";
+    MODE: "dev" | "prod" | "test";
   }
 }
 interface userRegisterData {
@@ -29,4 +29,8 @@ interface userDataDB {
   name: string;
   password: string;
   created: string;
+  verification: boolean;
+}
+interface testEmailData {
+  [key: string]: string;
 }

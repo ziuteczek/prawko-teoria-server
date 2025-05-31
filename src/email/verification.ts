@@ -6,5 +6,4 @@ async function sendVerificationEmail(email: string) {
   const tokenLink = `${process.env.SERVER_URL}/verify?token=${token}`;
   await sendMail(email, "Weryfikacja Prawko-Teoria", tokenLink);
 }
-
 export default sendVerificationEmail;

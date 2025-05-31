@@ -2,8 +2,8 @@ import { Request, Response, NextFunction } from "express";
 import { logErrorDEV, unsignToken } from "../helpers";
 import userVerificateDB from "../db/user_verificate_DB";
 
-const failLink = `${process.env.SERVER_URL}/?verification=false`;
-const succesLink = `${process.env.SERVER_URL}/?verification=true`;
+const failLink = `${process.env.SITE_URL}/?verification=false`;
+const succesLink = `${process.env.SITE_URL}/?verification=true`;
 
 const userVerify = async (req: Request, res: Response, _: NextFunction) => {
   const { token } = req.query;
@@ -38,7 +38,7 @@ const userVerify = async (req: Request, res: Response, _: NextFunction) => {
     return;
   }
 
-  res.redirect(succesLink);
+  res.redirect(301,succesLink);
 };
 
 export default userVerify;

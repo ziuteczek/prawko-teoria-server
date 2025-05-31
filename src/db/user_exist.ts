@@ -1,4 +1,7 @@
 import db from "./connection";
+import getQuery from "./queries_collection";
+
+const query = getQuery("user_get_condition.sql");
 
 const userExist = async (email?: string, id?: number) => {
   if (!email && !id) {
@@ -12,6 +15,6 @@ const userExist = async (email?: string, id?: number) => {
     condition = `id = '${id}'`;
   }
 
-  return !!await db.get(`SELECT * FROM user WHERE ${condition}`);
+  return !!(await db.get(query, { $condition: condition }));
 };
 export default userExist;

@@ -1,13 +1,21 @@
-import { verifyHash } from "../helpers";
+import {  verifyHash } from "../helpers";
+
 import db from "./connection";
+import getQuery from "./queries_collection";
+
+const query = getQuery("user_get_by_email.sql");
 
 const userLoginDB = async (email: string, password: string) => {
-  const userData = (await db.get(
-    `SELECT * FROM user WHERE email = '${email}' LIMIT 1`
-  )) as userDataDB | undefined;
+  const userData = (await db.get(query, {
+    $email: email,
+  })) as userDataDB | undefined;
 
   if (!userData) {
     throw new Error(`user ${email} doesn't exist`);
+  }
+
+  if (!userData.verification) {
+    throw new Error("user is not verified");
   }
 
   const passwordHashed = userData.password;

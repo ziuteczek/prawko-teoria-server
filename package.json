@@ -7,7 +7,8 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "dev": "npx tsx src/index.ts"
+    "dev": "set MODE=dev&&npx tsx src/server.ts",
+    "test": "set MODE=test&&npx tsx test/index.test.ts"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.8",

@@ -1,0 +1,1 @@
+UPDATE user SET verification = TRUE WHERE email = $email
