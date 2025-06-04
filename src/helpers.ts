@@ -1,31 +1,38 @@
 import jwt, { JwtPayload } from "jsonwebtoken";
 import argon2 from "argon2";
 import { readFileSync } from "fs";
+import messages from "./lang/pl.json" assert { type: "json" };
+import { userTokenData } from "./env";
 
 export const signToken = async (
   content: string | Buffer | object,
   options: jwt.SignOptions = {}
 ): Promise<string> => {
   return new Promise((resolve, reject) => {
-    jwt.sign(content, process.env.JWT_SECRET, options, (err, encoded) => {
-      if (err) return reject(err);
-      if (typeof encoded === "string") return resolve(encoded);
-      reject(new Error("Token is undefined"));
-    });
+    jwt.sign(
+      content,
+      process.env.JWT_SECRET as string,
+      options,
+      (err, encoded) => {
+        if (err) return reject(err);
+        if (typeof encoded === "string") return resolve(encoded);
+        reject(new Error("Token is undefined"));
+      }
+    );
   });
 };
 export const unsignToken = async (
   token: string
-): Promise<JwtPayload | string> => {
+): Promise<userTokenData | string | undefined> => {
   return new Promise((resolve, reject) => {
-    jwt.verify(token, process.env.JWT_SECRET, (err, content) => {
+    jwt.verify(token, process.env.JWT_SECRET as string, (err, content) => {
       if (err) {
         reject(err);
       }
       if (!content) {
         reject("content is undefined");
       }
-      resolve(content as string | JwtPayload);
+      resolve(content as userTokenData | string | undefined);
     });
   });
 };
@@ -64,7 +71,7 @@ export const verifyHash = async (
 
 export const logErrorDEV = (err: Error | string) => {
   const mode = process.env.MODE;
-  if (mode === "dev" ) {
+  if (mode === "dev") {
     console.error(err);
   }
 };
@@ -73,18 +80,17 @@ export const logDEV = (text: string) => {
   console.log(text);
 };
 
-// export const getQueryContent = (fileName: string) => {
-//   try {
-//     const queryPath = import.meta.dirname + `/db/sql/${fileName}`;
-//     const query = readFileSync(queryPath).toString();
+const langPL = JSON.parse(
+  readFileSync(`${import.meta.dirname}/lang/pl.json`).toString()
+);
 
-//     if (!query) {
-//       throw new Error(`Failed reading ${queryPath}`);
-//     }
-
-//     return query;
-//   } catch (err: any) {
-//     logErrorDEV(err);
-//     process.exit(1);
-//   }
-// };
+export const getFailResponse = (message: keyof typeof messages.auth) => {
+  const responseMessage = langPL.auth[message];
+  if (!responseMessage) {
+    throw new Error(`Message ${String(message)} not defined`);
+  }
+  return {
+    status: "fail",
+    message: responseMessage,
+  };
+};

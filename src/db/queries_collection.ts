@@ -26,4 +26,5 @@ const getQuery = (queryName: string) => {
   }
   return query;
 };
+
 export default getQuery;

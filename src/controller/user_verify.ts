@@ -1,6 +1,7 @@
 import { Request, Response, NextFunction } from "express";
 import { logErrorDEV, unsignToken } from "../helpers";
 import userVerificateDB from "../db/user_verificate_DB";
+import { userTokenData } from "../env";
 
 const failLink = `${process.env.SITE_URL}/?verification=false`;
 const succesLink = `${process.env.SITE_URL}/?verification=true`;
@@ -14,15 +15,15 @@ const userVerify = async (req: Request, res: Response, _: NextFunction) => {
     return;
   }
 
-  const userData = await unsignToken(token);
+  const userDataPayload = await unsignToken(token);
 
-  if (typeof userData === "string") {
+  if (typeof userDataPayload === "string") {
     res.redirect(failLink);
-    logErrorDEV(`Decoded token is invalid type: ${typeof userData}`);
+    logErrorDEV(`Decoded token is invalid type: ${typeof userDataPayload}`);
     return;
   }
 
-  const email: string | undefined = userData.email;
+  const {email,name,} = userDataPayload
 
   if (!email) {
     res.redirect(failLink);

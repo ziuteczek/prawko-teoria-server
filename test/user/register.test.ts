@@ -1,4 +1,5 @@
 import { notStrictEqual, strictEqual } from "assert";
+import  assert  from "node:assert";
 
 const registerUser = async (
   email: string,
@@ -19,6 +20,7 @@ const registerUser = async (
   });
   if (positive) {
     strictEqual(response.status, 201);
+    assert
   } else {
     notStrictEqual(response.status, 201);
   }

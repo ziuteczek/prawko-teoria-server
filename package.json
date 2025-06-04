@@ -1,9 +1,9 @@
 {
   "name": "prawko-teoria-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "Server for quiz web app",
   "license": "ISC",
-  "author": "",
+  "author": "Stanisław Dymny",
   "type": "module",
   "main": "src/index.ts",
   "scripts": {

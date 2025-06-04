@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "required-data-not-provided": "Nie załączono wymaganych danych",
+    "email-or-password-wrongly-formated": "Email lub/i hasło źle sformatowane",
+    "user-with-given-email-already-exist": "Użytkownik o podanym emailu już istnieje",
+    "error-while-searching-user-database": "Błąd podczas wyszukiwania bazy użytkowników",
+    "error-while-creating-new-user": "Błąd podczas tworzenia nowego użytkownika"
+  }
+}

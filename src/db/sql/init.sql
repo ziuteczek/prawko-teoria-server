@@ -20,7 +20,7 @@ CREATE TABLE IF NOT EXISTS question (
     correct_answer TEXT NOT NULL,
     category TEXT,
     media TEXT,
-    mediaID TEXT
+    media_id TEXT
 );
 CREATE TABLE IF NOT EXISTS category (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
