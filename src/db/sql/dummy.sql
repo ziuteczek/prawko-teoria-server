@@ -1,6 +1,5 @@
 -- Insert dummy users
--- Passwords are hashed Pasword$
--- $ Representing 1,2,3...,10
+-- Passwords are hashed Pasword1, Password2, Password3, ... , Password10
 INSERT INTO user (email, name, password) VALUES
 ('alice@example.com', 'Alice Smith', '$argon2i$v=19$m=16,t=2,p=1$THNYMU5DSG0wTlJjMjhpdA$PzxnMYcpurXmTO9LzCrnzg'),
 ('bob@example.com', 'Bob Johnson', '$argon2i$v=19$m=16,t=2,p=1$THNYMU5DSG0wTlJjMjhpdA$6ULSTQOfija7U6+iaIBfjw'),
@@ -13,27 +12,22 @@ INSERT INTO user (email, name, password) VALUES
 ('ivan@example.com', 'Ivan Taylor', '$argon2i$v=19$m=16,t=2,p=1$THNYMU5DSG0wTlJjMjhpdA$K/wH2oXzcQntlBoMyfsNVA'),
 ('judy@example.com', 'Judy Anderson', '$argon2i$v=19$m=16,t=2,p=1$THNYMU5DSG0wTlJjMjhpdA$O+xp23F4XMniAXk1GW22Mw');
 
--- Insert dummy answers using only the allowed values
-INSERT INTO answer (picked_option, user_id) VALUES
-('A', 1),
-('B', 1),
-('Tak', 1),
-('C', 2),
-('Nie', 2),
-('A', 3),
-('B', 3),
-('C', 3),
-('Tak', 4),
-('Nie', 4),
-('A', 4),
-('C', 5),
-('Tak', 5),
-('Nie', 6),
-('A', 7),
-('C', 7),
-('B', 8),
-('Tak', 9),
-('Nie', 9),
-('C', 9),
-('A', 10),
-('B', 10);
+INSERT INTO answer (picked_option, user_id,question_id)
+VALUES
+('Tak', 9, 99),
+('Tak', 9, 988),
+('Nie', 9, 990),
+('Tak', 3, 991),
+('Nie', 2, 1369),
+('Tak', 1, 997),
+('Nie', 9, 1015);
+
+INSERT INTO question_familiarity (question_id,user_id,stage)
+VALUES
+(99,9,'C'),
+(988,9, 'C'),
+(990,9, 'C'),
+(997,9, 'N'),
+(1015,9, 'N'),
+(991,9, 'N'),
+(1369,9, 'N');

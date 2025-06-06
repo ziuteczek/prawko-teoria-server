@@ -17,13 +17,14 @@ const userVerify = async (req: Request, res: Response, _: NextFunction) => {
 
   const userDataPayload = await unsignToken(token);
 
-  if (typeof userDataPayload === "string") {
+
+  if (typeof userDataPayload === "string" || !userDataPayload) {
     res.redirect(failLink);
     logErrorDEV(`Decoded token is invalid type: ${typeof userDataPayload}`);
     return;
   }
 
-  const {email,name,} = userDataPayload
+  const {email} = userDataPayload;
 
   if (!email) {
     res.redirect(failLink);

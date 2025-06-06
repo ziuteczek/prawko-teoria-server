@@ -19,7 +19,6 @@ const decodeToken = async (req: Request, res: Response, next: NextFunction) => {
     if (!unsignedTokenData) {
       throw new Error("JWT data is empty");
     }
-    console.log(unsignedTokenData)
     
     res.locals.userTokenData = unsignedTokenData;
   } catch (err: any) {

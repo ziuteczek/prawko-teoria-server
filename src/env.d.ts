@@ -12,7 +12,7 @@ declare namespace NodeJS {
 declare namespace Express {
   interface Response {
     locals: {
-      myVar: number
+      
     }
   }
 }

@@ -53,7 +53,6 @@ describe("Authorization & authentication", () => {
   weakPasswords.forEach((password,i)=>{
     it(`${i + 1}. Weak password test`, async () => await register(`${i}${email}`, password, name, false));
   });
-  it("elo", async () => {await fetch("localhost:3200/dashboard"); strictEqual(1,1)});
 });
 
 after(() => {

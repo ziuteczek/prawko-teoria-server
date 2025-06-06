@@ -38,6 +38,7 @@ if (process.env.MODE === "dev") {
   const dummyDataQuery = getQuery("dummy.sql");
   promises.push(db.exec(dummyDataQuery));
 }
+
 await Promise.all(promises);
 
 export default db;
