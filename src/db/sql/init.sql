@@ -25,18 +25,13 @@ CREATE TABLE IF NOT EXISTS answer (
     FOREIGN KEY(question_id) REFERENCES question(id) ON DELETE CASCADE
 );
 -- Possible values of question_familiarity.stage:
---   'N' - No Answer
---         The user did not provide any response to the question.
---   'I' - Incorrect Answer
---         The user attempted to answer, but the response was incorrect.
---   'U' - Declared Unknown
---         The user explicitly stated they do not know the answer/
---   'C' - Correct Answer
---         The user provided a correct answer to the question.
+--   'K' - Known question
+--   'U' - Unkown question
+--   'N' - New question
 CREATE TABLE IF NOT EXISTS question_familiarity (
     question_id INTEGER NOT NULL,
     user_id INTEGER NOT NULL,
-    stage TEXT CHECK(stage IN ('N','I','U','C')),
+    stage TEXT CHECK(stage IN ('K','U','N')),
     FOREIGN KEY(question_id) REFERENCES question(id) ON DELETE CASCADE,
     FOREIGN KEY(user_id) REFERENCES user(id) ON DELETE CASCADE,
     PRIMARY KEY (user_id, question_id)

@@ -1,1 +1,2 @@
-INSERT INTO user (email,name,password) VALUES ($email,$name,$passwordHashed)
+INSERT INTO user (email,name,password)
+VALUES ($email,$name,$passwordHashed);

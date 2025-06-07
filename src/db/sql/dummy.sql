@@ -24,10 +24,10 @@ VALUES
 
 INSERT INTO question_familiarity (question_id,user_id,stage)
 VALUES
-(99,9,'C'),
-(988,9, 'C'),
-(990,9, 'C'),
-(997,9, 'N'),
-(1015,9, 'N'),
+(99,9,'K'),
+(988,9, 'U'),
+(990,9, 'N'),
+(997,9, 'K'),
+(1015,9, 'U'),
 (991,9, 'N'),
 (1369,9, 'N');
