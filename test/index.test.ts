@@ -6,8 +6,6 @@ import app from "../src/app";
 import register from "./user/register.test";
 import verify from "./user/verify.test";
 import login from "./user/login.test";
-import { assert } from "node:console";
-import { strictEqual } from "node:assert";
 
 const port = 3200;
 
@@ -37,7 +35,6 @@ describe("Authorization & authentication", () => {
     "Stasiobombasio"
   ];
   
-
   //Succes
   it("Register", async () => await register(email, password, name));
   it("Verify", async () => await verify(email));
@@ -50,7 +47,7 @@ describe("Authorization & authentication", () => {
   it("Register email wrongly foramted", async () => await register(emailWronglyFormated1, password, name, false));
   it("Register email wrongly foramted", async () => await register(emailWronglyFormated2, password, name, false));
   
-  weakPasswords.forEach((password,i)=>{
+  weakPasswords.forEach((password, i) => {
     it(`${i + 1}. Weak password test`, async () => await register(`${i}${email}`, password, name, false));
   });
 });

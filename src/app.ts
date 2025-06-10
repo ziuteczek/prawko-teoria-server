@@ -8,6 +8,7 @@ import userRegister from "./controller/user_register";
 import userLogin from "./controller/user_login";
 import userVerify from "./controller/user_verify";
 import userDashboard from "controller/user_dashboard";
+import userDashboardDB from "db/user_categories_stats_DB";
 
 dotenv.config();
 

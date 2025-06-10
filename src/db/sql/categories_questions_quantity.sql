@@ -1,0 +1,1 @@
+SELECT IFNULL(category,'brak kategorii') as 'name',COUNT(id) as 'quantity' FROM question GROUP BY category;

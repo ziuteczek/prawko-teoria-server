@@ -4,7 +4,6 @@ import { open } from "sqlite";
 import getQuery from "./queries_collection";
 import { readFileSync } from "fs";
 import { QuestionJSON } from "../env";
-import userDashboardDB from "./user_categories_stats_DB";
 
 dotenv.config();
 
@@ -43,4 +42,3 @@ if (process.env.MODE === "dev") {
 await Promise.all(promises);
 
 export default db;
-// console.log(await userDashboardDB(9))
