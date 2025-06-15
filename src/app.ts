@@ -9,6 +9,7 @@ import userLogin from "./controller/user_login";
 import userVerify from "./controller/user_verify";
 import userDashboard from "controller/user_dashboard";
 import userDashboardDB from "db/user_categories_stats_DB";
+import userQuestions from "controller/user_questions";
 
 dotenv.config();
 
@@ -20,7 +21,12 @@ if (process.env.MODE === "dev") {
 }
 
 app.use(cookieParser());
-app.use(cors());
+app.use(
+  cors({
+    origin: "http://localhost:5173",
+    credentials: true, 
+  })
+);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -28,8 +34,8 @@ app.post("/login", userLogin);
 app.post("/register", userRegister);
 app.get("/verify", userVerify);
 
+app.get("/user-stats", userDashboard);
+app.get("/user-questions", userQuestions)
 app.use(decodeToken);
-
-app.get("/dashboard", userDashboard);
 
 export default app;

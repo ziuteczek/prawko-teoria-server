@@ -1,17 +1,7 @@
 SELECT IFNULL(question.category,'brak kategorii') as 'category',
-COUNT(case when question_familiarity.stage = 'K' then 1 end) AS 'known',
-COUNT(case when question_familiarity.stage = 'U' then 1 end) AS 'unkown',
-COUNT(case when question_familiarity.stage = 'N' then 1 end) AS 'undiscovered'
-FROM question_familiarity
-JOIN question ON question.id = question_familiarity.question_id
-WHERE question_familiarity.user_id = $id
+COUNT(case when answer.picked_option = question.correct_answer then 1 end) AS 'known',
+COUNT(case when answer.picked_option != question.correct_answer then 1 end) AS 'unkown'
+FROM question
+JOIN answer ON answer.question_id = question.id
+WHERE answer.user_id = $id
 GROUP BY question.category;
-
--- ALTERNATIVE:
--- SELECT question.category,
--- question_familiarity.stage,
--- COUNT(question_familiarity.stage) AS 'quantity'
--- FROM question_familiarity
--- JOIN question ON question.id = question_familiarity.question_id
--- WHERE question_familiarity.user_id = $id
--- GROUP BY question.category,question_familiarity.stage;
