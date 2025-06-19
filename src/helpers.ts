@@ -3,6 +3,7 @@ import argon2 from "argon2";
 import { readFileSync } from "fs";
 import messages from "./lang/pl.json" assert { type: "json" };
 import { userTokenData } from "./env";
+import { json } from "stream/consumers";
 
 export const signToken = async (
   content: string | Buffer | object,
@@ -93,4 +94,13 @@ export const getFailResponse = (message: keyof typeof messages.auth) => {
     status: "fail",
     message: responseMessage,
   };
+};
+export const JsonParse = (textJSON: string | any) => {
+  try {
+    const jsonObj = JSON.parse(textJSON);
+    return jsonObj;
+  } catch (err: any) {
+    logErrorDEV(err);
+    return undefined;
+  }
 };
