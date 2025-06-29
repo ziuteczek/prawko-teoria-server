@@ -24,7 +24,7 @@ interface userRegisterData {
 interface userLoginData {
   email: string;
   password: string;
-  keepLogin: "on" | undefined;
+  keepLogin: boolean;
 }
 interface userTokenData {
   id: number;

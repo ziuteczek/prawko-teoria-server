@@ -21,7 +21,7 @@ await (async () => {
 
 describe("Authorization & authentication", () => {
   const name = "Stas";
-  const email = "elo@gmail.com";
+  const email = "exaxalo@gmail.com";
   const password = "EloZel@2ADD31";
   const incorrentPassword = password + "elozelo";
   const unregisteredEmail = "elozelo" + password;

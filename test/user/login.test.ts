@@ -16,7 +16,7 @@ const loginUser = async (
     }),
   });
   if (positive) {
-    strictEqual(response.status, 200);
+    strictEqual(response.status, 200, await response.text());
   } else {
     notStrictEqual(response.status, 200);
   }

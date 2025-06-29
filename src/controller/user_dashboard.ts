@@ -5,7 +5,7 @@ const userDashboard = async (req: Request, res: Response, _: NextFunction) => {
   // const { email, id, name }: { email: string, id: number, name: string } = res.locals.userTokenData;
   
   const userStats = await getUserCategoriesStats(9);
-  console.log(userStats);
+  
   res.status(200).json(userStats);
 };
 export default userDashboard;

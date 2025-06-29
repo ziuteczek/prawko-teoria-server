@@ -17,12 +17,13 @@ VALUES
 ('Tak', 9, 99),
 ('Tak', 9, 988),
 ('Nie', 9, 990),
-('Tak', 3, 991),
+('Nie', 9, 991),
 ('Nie', 2, 1369),
 ('Tak', 1, 997),
 ('Nie', 9, 1015),
 ('Tak', 9, 1015),
 ('Tak', 9, 1015),
+('Nie', 9, 891),
 ('Nie', 9, 3367);
 
 -- INSERT INTO question_familiarity (question_id,user_id,stage)

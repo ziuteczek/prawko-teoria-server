@@ -8,11 +8,14 @@ import {
 } from "../helpers";
 import userLoginDB from "../db/user_login_DB";
 import { userLoginData } from "../env";
+import userLoginSchema from "../validation/searchParams/user_login_schema";
 
 const userLogin = async (req: Request, res: Response, _: NextFunction) => {
-  const { email, password, keepLogin }: userLoginData = req.body;
+  const { data, success, error } = await userLoginSchema.safeParseAsync(
+    req.body
+  );
 
-  if (!email || !password || !keepLogin) {
+  if (!success) {
     const response = getFailResponse("required-data-not-provided");
     res.status(400).json(response);
 
@@ -21,14 +24,8 @@ const userLogin = async (req: Request, res: Response, _: NextFunction) => {
     return;
   }
 
-  if (!emailRegex.test(email) || !passwordRegex.test(password)) {
-    const response = getFailResponse("email-or-password-wrongly-formated");
-    res.status(400).json(response);
+  const { email, password, keepLogin }: userLoginData = data;
 
-    logErrorDEV("Email or parrword wrongly formated");
-
-    return;
-  }
   const weekDurationMS = 604_800_000;
 
   try {

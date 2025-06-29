@@ -10,6 +10,8 @@ import userVerify from "./controller/user_verify";
 import userDashboard from "controller/user_dashboard";
 import userDashboardDB from "db/user_categories_stats_DB";
 import userQuestions from "controller/user_questions";
+import addAnswer from "db/user_add_answer";
+import userAnswer from "controller/user_answer";
 
 dotenv.config();
 
@@ -36,6 +38,7 @@ app.get("/verify", userVerify);
 
 app.get("/user-stats", userDashboard);
 app.get("/user-questions", userQuestions)
+app.post("/user-answer", userAnswer)
 app.use(decodeToken);
 
 export default app;

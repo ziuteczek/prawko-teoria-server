@@ -3,19 +3,18 @@ import createUserDB from "../db/user_register_DB";
 import sendVerificationEmail from "../email/verification";
 import { userRegisterData } from "../env";
 
-import {
-  emailRegex,
-  getFailResponse,
-  logErrorDEV,
-  passwordRegex,
-} from "../helpers";
+import { getFailResponse, logErrorDEV } from "../helpers";
 
 import { NextFunction, Request, Response } from "express";
 
-const userRegister = async (req: Request, res: Response, _: NextFunction) => {
-  const { email, password, name }: userRegisterData = req.body;
+import userRegisterSchema from "../validation/searchParams/user_register_validation";
 
-  if (!email || !password || !name) {
+const userRegister = async (req: Request, res: Response, _: NextFunction) => {
+  const { data, success, error } = await userRegisterSchema.safeParseAsync(
+    req.body
+  );
+
+  if (!success) {
     const response = getFailResponse("required-data-not-provided");
     res.status(400).json(response);
 
@@ -24,12 +23,7 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
     return;
   }
 
-  if (!emailRegex.test(email) || !passwordRegex.test(password)) {
-    const response = getFailResponse("email-or-password-wrongly-formated");
-    res.status(400).json(response);
-    logErrorDEV("Email or password wrongly formated");
-    return;
-  }
+  const { email, password, name }: userRegisterData = data;
 
   try {
     if (await userExist(email)) {

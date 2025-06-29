@@ -17,14 +17,13 @@ const userVerify = async (req: Request, res: Response, _: NextFunction) => {
 
   const userDataPayload = await unsignToken(token);
 
-
   if (typeof userDataPayload === "string" || !userDataPayload) {
     res.redirect(failLink);
     logErrorDEV(`Decoded token is invalid type: ${typeof userDataPayload}`);
     return;
   }
 
-  const {email} = userDataPayload;
+  const { email } = userDataPayload;
 
   if (!email) {
     res.redirect(failLink);
@@ -40,7 +39,7 @@ const userVerify = async (req: Request, res: Response, _: NextFunction) => {
     return;
   }
 
-  res.redirect(301,succesLink);
+  res.redirect(301, succesLink);
 };
 
 export default userVerify;
