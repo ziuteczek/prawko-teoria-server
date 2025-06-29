@@ -1277,7 +1277,7 @@
     "Pytanie": "Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowiązek zmniejszyć prędkość, aby umożliwić kierującemu autobusem włączenie się do ruchu?",
     "Poprawna odp": "Tak",
     "Kategoria": "Włączanie się do ruchu",
-    "Media": "705.mp4",
+    "Media": "705.D34KWorg.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Are you obliged in this situation to slow down in the built-up area to allow the bus driver to join the traffic?",
     "Pytanie [DE]": "Soll man in der dargestellten Situation in geschlossener Ortschaft die Geschwindigkeit reduzieren, um dem Busfahrer die Möglichkeit zu verschaffen, sich in den Verkehr einzufädeln?",
@@ -1289,7 +1289,7 @@
     "Numer pytania": 1134,
     "Pytanie": "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?",
     "Poprawna odp": "Nie",
-    "Media": "706.mp4",
+    "Media": "706.D34KWorg.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1134.mp4",
@@ -1317,7 +1317,7 @@
     "Numer pytania": 1143,
     "Pytanie": "Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?",
     "Poprawna odp": "Nie",
-    "Media": "537.mp4",
+    "Media": "537.D28KW_org.mp4",
     "Kategoria": "Zachowanie na rondzie",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1143.mp4",
@@ -1332,7 +1332,7 @@
     "Pytanie": "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?",
     "Kategoria": "Zachowanie wobec pieszych, rowerzystów, innych pojazdów",
     "Poprawna odp": "Nie",
-    "Media": "538.mp4",
+    "Media": "538.D28KW_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1144.mp4",
     "Pytanie [ENG]": "Does the behaviour of the pedestrian require you to use the horn?",
@@ -1345,7 +1345,7 @@
     "Numer pytania": 1145,
     "Pytanie": "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?",
     "Poprawna odp": "Nie",
-    "Media": "540.mp4",
+    "Media": "540.D28KW_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Włączanie się do ruchu",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1145.mp4",
@@ -1359,7 +1359,7 @@
     "Numer pytania": 1146,
     "Pytanie": "Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu, który wyjeżdża z pętli?",
     "Poprawna odp": "Nie",
-    "Media": "544.mp4",
+    "Media": "544.D28KW_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie wobec tramwaji",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1146.mp4",
@@ -1374,7 +1374,7 @@
     "Pytanie": "Zamierzasz jechać na wprost, a kierujący tramwajem planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?",
     "Poprawna odp": "Nie",
     "Kategoria": "Zachowanie wobec tramwaji",
-    "Media": "546.mp4",
+    "Media": "546.D28KW_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1148.mp4",
     "Pytanie [ENG]": "You intend to drive straight ahead and the tram driver intends to turn left. Have you got priority over him?",
@@ -1387,7 +1387,7 @@
     "Numer pytania": 1153,
     "Pytanie": "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?",
     "Poprawna odp": "Tak",
-    "Media": "607.mp4",
+    "Media": "607.D29org.mp4",
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1153.mp4",
@@ -1401,7 +1401,7 @@
     "Numer pytania": 1157,
     "Pytanie": "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji użycie sygnału dźwiękowego jest zabronione?",
     "Poprawna odp": "Nie",
-    "Media": "610.mp4",
+    "Media": "610.D29GMorg.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Sygnały",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1157.mp4",
@@ -1415,7 +1415,7 @@
     "Numer pytania": 1158,
     "Pytanie": "Zamierzasz jechać na wprost. Czy masz pierwszeństwo przed pojazdem szynowym skręcającym w prawo do zajezdni ?",
     "Poprawna odp": "Nie",
-    "Media": "614.mp4",
+    "Media": "614.D29GMorg.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie wobec tramwaji",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1158.mp4",
@@ -1429,7 +1429,7 @@
     "Numer pytania": 1162,
     "Pytanie": "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?",
     "Poprawna odp": "Nie",
-    "Media": "627.mp4",
+    "Media": "627.D33_2org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Włączanie się do ruchu",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1162.mp4",
@@ -1443,7 +1443,7 @@
     "Numer pytania": 1163,
     "Pytanie": "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?",
     "Poprawna odp": "Tak",
-    "Media": "774.mp4",
+    "Media": "774. RONDO_12org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1163.mp4",
@@ -1457,7 +1457,7 @@
     "Numer pytania": 1169,
     "Pytanie": "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem szynowym nadjeżdżającym z przeciwka?",
     "Poprawna odp": "Nie",
-    "Media": "635.mp4",
+    "Media": "635.D33_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie wobec tramwaji",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1169.mp4",
@@ -1472,7 +1472,7 @@
     "Pytanie": "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?",
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Poprawna odp": "Tak",
-    "Media": "636.mp4",
+    "Media": "636.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1171.mp4",
     "Pytanie [ENG]": "You intend to turn right. Are you obliged to yield the right of way to the vehicle approaching form the left?",
@@ -1486,7 +1486,7 @@
     "Pytanie": "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?",
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Poprawna odp": "Nie",
-    "Media": "638.mp4",
+    "Media": "638.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1172.mp4",
     "Pytanie [ENG]": "You intend to go straight ahead. Are you obliged to yield the right of way to the vehicle approaching from the right?",
@@ -1499,7 +1499,7 @@
     "Numer pytania": 1178,
     "Pytanie": "Czy w tej sytuacji masz pierwszeństwo przed zawracającym pojazdem?",
     "Poprawna odp": "Nie",
-    "Media": "640.mp4",
+    "Media": "640.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1178.mp4",
@@ -1513,7 +1513,7 @@
     "Numer pytania": 1179,
     "Pytanie": "Czy w tej sytuacji masz pierwszeństwo przed pojazdem jadącym na wprost przez skrzyżowanie?",
     "Poprawna odp": "Nie",
-    "Media": "641.mp4",
+    "Media": "641.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Kategoria": "Zachowanie na skrzyżowaniu",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1179.mp4",
@@ -1579,7 +1579,7 @@
     "Numer pytania": 1319,
     "Pytanie": "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?",
     "Poprawna odp": "Tak",
-    "Media": "B.mp4",
+    "Media": "B.1.6.3.Bzdorg.mp4",
     "Kategorie": ["B"],
     "Kategoria": "Sygnały",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1319.mp4",
@@ -1593,7 +1593,7 @@
     "Numer pytania": 1323,
     "Pytanie": "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?",
     "Poprawna odp": "Nie",
-    "Media": "B.mp4",
+    "Media": "B.1.6.7.Bzorg.mp4",
     "Kategorie": ["B"],
     "Kategoria": "Jazda w utrudnionych warunkach",
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1323.mp4",
@@ -2426,7 +2426,7 @@
     "Numer pytania": 1558,
     "Pytanie": "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?",
     "Poprawna odp": "Nie",
-    "Media": "642.mp4",
+    "Media": "642.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Can you drive your vehicle in such conditions with the fog lights switched on?",
     "Pytanie [DE]": "Darf man in dieser Situation das Fahrzeug mit eingeschaltetem Fernlicht lenken?",
@@ -2438,7 +2438,7 @@
     "Numer pytania": 1561,
     "Pytanie": "Czy w tej sytuacji masz prawo kontynuować jazdę  bez zwracania uwagi na zachowanie pieszego?",
     "Poprawna odp": "Nie",
-    "Media": "634.mp4",
+    "Media": "634.D33_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm1561.mp4",
     "Pytanie [ENG]": "Are you allowed to continue driving in this situation, not paying attention to the behaviour of the pedestrian?",
@@ -2988,7 +2988,7 @@
     "Numer pytania": 1793,
     "Pytanie": "Czy w tej sytuacji jadąc na obszarze zabudowanym, w razie potrzeby, masz obowiązek zatrzymać się aby umożliwić włączenie się autobusu do ruchu?",
     "Poprawna odp": "Tak",
-    "Media": "705.mp4",
+    "Media": "705.D34KWorg.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Are you obliged in this situation in the built-up area to stop if the need be, in order to allow the bus to join the traffic?",
     "Pytanie [DE]": "Haben Sie in der dargestellten Situation in geschlossener Ortschaft die Pflicht, sofern es notwendig ist, anzuhalten, damit der Bus sich in den Verkehr einordnen kann?",
@@ -3019,7 +3019,8 @@
     "Pytanie [UA]": "Яка категорія водійських прав вимагається для керування квадро циклом (чотириколісним мікроавтомобілем), який не є легким квадроциклом?",
     "Odpowiedź A [UA]": "B1.",
     "Odpowiedź B [UA]": "A.",
-    "Odpowiedź C [UA]": "AM."
+    "Odpowiedź C [UA]": "AM.",
+    "Media": ""
   },
   {
     "Lp.": 230,
@@ -3045,7 +3046,8 @@
     "Pytanie [UA]": "Який обов'язок покладається на власника легкового автомобіля?",
     "Odpowiedź A [UA]": "Проходження періодичного технічного огляду автомобіля.",
     "Odpowiedź B [UA]": "Укладення договору страхування від нещасних випадків.",
-    "Odpowiedź C [UA]": "Укладення договору страхування Каско."
+    "Odpowiedź C [UA]": "Укладення договору страхування Каско.",
+    "Media": ""
   },
   {
     "Lp.": 231,
@@ -3067,7 +3069,8 @@
     "Pytanie [UA]": "Коли потрібно перевіряти тиск в шинах легкового автомобіля?",
     "Odpowiedź A [UA]": "Безпосередньо перед початком поїздки.",
     "Odpowiedź B [UA]": "Після закінчення поїздки.",
-    "Odpowiedź C [UA]": "Принаймні за 24 години до запланованої поїздки."
+    "Odpowiedź C [UA]": "Принаймні за 24 години до запланованої поїздки.",
+    "Media": ""
   },
   {
     "Lp.": 232,
@@ -3093,7 +3096,8 @@
     "Pytanie [UA]": "Як можна перевозити вантаж у причепі легкового автомобіля?",
     "Odpowiedź A [UA]": "Вантаж може закривати деякі фари причепа.",
     "Odpowiedź B [UA]": "Вантаж не повинен впливати на стійкість автомобіля.",
-    "Odpowiedź C [UA]": "Вантаж не потрібно фіксувати від зміни положення."
+    "Odpowiedź C [UA]": "Вантаж не потрібно фіксувати від зміни положення.",
+    "Media": ""
   },
   {
     "Lp.": 233,
@@ -3119,7 +3123,8 @@
     "Pytanie [UA]": "Як Ви перевезете вантаж у причепі, який тягне за собою легковий автомобіль?",
     "Odpowiedź A [UA]": "Я зафіксую його від переміщення.",
     "Odpowiedź B [UA]": "Я просто покладу вантаж на причіп без фіксації.",
-    "Odpowiedź C [UA]": "Я не мушу забезпечувати вантаж від переміщення, якщо буду їхати повільно."
+    "Odpowiedź C [UA]": "Я не мушу забезпечувати вантаж від переміщення, якщо буду їхати повільно.",
+    "Media": ""
   },
   {
     "Lp.": 234,
@@ -3145,7 +3150,8 @@
     "Pytanie [UA]": "Як Ви перевезете сипучий вантаж у причепі, який тягне за собою легковий автомобіль?",
     "Odpowiedź A [UA]": "Неприкритим – розміщеним нижче висоти бортів.",
     "Odpowiedź B [UA]": "Не перевищуючи швидкість 30 км/год.",
-    "Odpowiedź C [UA]": "Прикритим у щільному кузові."
+    "Odpowiedź C [UA]": "Прикритим у щільному кузові.",
+    "Media": ""
   },
   {
     "Lp.": 235,
@@ -3171,7 +3177,8 @@
     "Pytanie [UA]": "Як потрібно забезпечити систему кріплення, за допомогою якої Ви зафіксували вантаж у причепі, що тягнеться легковим автомобілем?",
     "Odpowiedź A [UA]": "Так, щоб кріплення не розслабилося.",
     "Odpowiedź B [UA]": "Може вільно звисати з причепа.",
-    "Odpowiedź C [UA]": "Не потрібно фіксувати від падіння під час руху."
+    "Odpowiedź C [UA]": "Не потрібно фіксувати від падіння під час руху.",
+    "Media": ""
   },
   {
     "Lp.": 236,
@@ -3197,7 +3204,8 @@
     "Pytanie [UA]": "Як слід розмістити вантаж у легковому автомобілі?",
     "Odpowiedź A [UA]": "Він може трохи закривати номерні знаки.",
     "Odpowiedź B [UA]": "Він може закривати задні протитуманні фари.",
-    "Odpowiedź C [UA]": "Він не повинен обмежувати оглядовість дороги."
+    "Odpowiedź C [UA]": "Він не повинен обмежувати оглядовість дороги.",
+    "Media": ""
   },
   {
     "Lp.": 237,
@@ -3223,7 +3231,8 @@
     "Pytanie [UA]": "Як Ви будете розміщувати багаж у легковому автомобілі?",
     "Odpowiedź A [UA]": "Найважчий багаж я покладу в найглибше і найнижче положення в центральній частині багажника.",
     "Odpowiedź B [UA]": "Довільним чином.",
-    "Odpowiedź C [UA]": "Найважчий багаж покладу у верхню частину багажника, над легшим."
+    "Odpowiedź C [UA]": "Найважчий багаж покладу у верхню частину багажника, над легшим.",
+    "Media": ""
   },
   {
     "Lp.": 238,
@@ -3249,7 +3258,8 @@
     "Pytanie [UA]": "Як Ви розмістите вантаж на причепі легкового автомобіля?",
     "Odpowiedź A [UA]": "Щоб він не закривав фари причепа.",
     "Odpowiedź B [UA]": "Я покладу його з одного боку причепа.",
-    "Odpowiedź C [UA]": "Я завжди буду розміщувати його в задній частині причепа."
+    "Odpowiedź C [UA]": "Я завжди буду розміщувати його в задній частині причепа.",
+    "Media": ""
   },
   {
     "Lp.": 239,
@@ -3271,7 +3281,8 @@
     "Pytanie [UA]": "Чого не можна робити під час керування легковим автомобілем?",
     "Odpowiedź A [UA]": "Тягнути людей на санях, причеплених до автомобіля.",
     "Odpowiedź B [UA]": "Використовувати CB- радіо.",
-    "Odpowiedź C [UA]": "Перевоити дитину в спеціальному дитячому автокріслі на передньому сидінні."
+    "Odpowiedź C [UA]": "Перевоити дитину в спеціальному дитячому автокріслі на передньому сидінні.",
+    "Media": ""
   },
   {
     "Lp.": 240,
@@ -3322,7 +3333,8 @@
     "Pytanie [UA]": "Який із наведених способів перевезення вогнегасника в легковому автомобілі є правильним?",
     "Odpowiedź A [UA]": "Вогнегасник розміщений на задній полиці.",
     "Odpowiedź B [UA]": "Вогнегасник лежить незафіксований між сидіннями.",
-    "Odpowiedź C [UA]": "Вогнегасник закріплений під пасажирським сидінням."
+    "Odpowiedź C [UA]": "Вогнегасник закріплений під пасажирським сидінням.",
+    "Media": ""
   },
   {
     "Lp.": 243,
@@ -3348,7 +3360,8 @@
     "Pytanie [UA]": "З якою метою використовують систему ASR в легковому автомобілі?",
     "Odpowiedź A [UA]": "Запобігання пробуксовці під час гальмування двигуном.",
     "Odpowiedź B [UA]": "Запобігання блокуванню гальмованих коліс.",
-    "Odpowiedź C [UA]": "Запобігання пробуксовці коліс при рушанні з місця."
+    "Odpowiedź C [UA]": "Запобігання пробуксовці коліс при рушанні з місця.",
+    "Media": ""
   },
   {
     "Lp.": 244,
@@ -3370,7 +3383,8 @@
     "Pytanie [UA]": "З якою метою використовують систему ESP в легковому автомобілі?",
     "Odpowiedź A [UA]": "Запобігання пробуксовці коліс при гальмуванні двигуном.",
     "Odpowiedź B [UA]": "Запобігання блокуванню гальмованих коліс.",
-    "Odpowiedź C [UA]": "Стабілізація руху автомобіля під час руху на поворотах дороги (контроль бічної динаміки)."
+    "Odpowiedź C [UA]": "Стабілізація руху автомобіля під час руху на поворотах дороги (контроль бічної динаміки).",
+    "Media": ""
   },
   {
     "Lp.": 245,
@@ -3435,7 +3449,8 @@
     "Pytanie [UA]": "Як запобігти кровотечі з рани без стерильної пов’язки?",
     "Odpowiedź A [UA]": "Я не буду перев'язувати рану.",
     "Odpowiedź B [UA]": "Я використаю одяг пораненого, щоб перев'язати його.",
-    "Odpowiedź C [UA]": "Почекаю, поки хтось позичить свою аптечку."
+    "Odpowiedź C [UA]": "Почекаю, поки хтось позичить свою аптечку.",
+    "Media": ""
   },
   {
     "Lp.": 249,
@@ -3461,7 +3476,8 @@
     "Pytanie [UA]": "Коли слід накладати компресійну пов'язку?",
     "Odpowiedź A [UA]": "При розтрощенні кінцівки.",
     "Odpowiedź B [UA]": "При витіканні кров'янистих виділень з вуха.",
-    "Odpowiedź C [UA]": "У разі кровотечі."
+    "Odpowiedź C [UA]": "У разі кровотечі.",
+    "Media": ""
   },
   {
     "Lp.": 250,
@@ -3522,7 +3538,7 @@
     "Numer pytania": 2212,
     "Pytanie": "Czy w tej sytuacji wolno Ci użyć ostrzegawczego sygnału dźwiękowego?",
     "Poprawna odp": "Tak",
-    "Media": "609.mp4",
+    "Media": "609.D29org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm2212.mp4",
     "Pytanie [ENG]": "Are you allowed in this situation to use a warning sound signal?",
@@ -4554,7 +4570,8 @@
     "Pytanie [UA]": "Ви керуєте транспортним засобом під час дощу. Що з наступного слід зробити в першу чергу, щоб поїздка була безпечнішою?",
     "Odpowiedź A [UA]": "Вимкнути систему контролю тяги.",
     "Odpowiedź B [UA]": "Їхати по колії.",
-    "Odpowiedź C [UA]": "Зменшити швидкість."
+    "Odpowiedź C [UA]": "Зменшити швидкість.",
+    "Media": ""
   },
   {
     "Lp.": 334,
@@ -4576,7 +4593,8 @@
     "Pytanie [UA]": "Ви керуєте легковим автомобілем під час сильного дощу. Що Ви повинні вчинити з наведеного нижче, якщо потрапили в колію, заповнену водою?",
     "Odpowiedź A [UA]": "Плавно зменшити швидкість.",
     "Odpowiedź B [UA]": "Рішуче загальмувати.",
-    "Odpowiedź C [UA]": "Рішуче пришвидшити."
+    "Odpowiedź C [UA]": "Рішуче пришвидшити.",
+    "Media": ""
   },
   {
     "Lp.": 335,
@@ -4602,7 +4620,8 @@
     "Pytanie [UA]": "Яка з перерахованих нижче дій може підвищити безпеку під час руху по засніженій дорозі?",
     "Odpowiedź A [UA]": "Гальмування тільки ручним гальмом.",
     "Odpowiedź B [UA]": "Застосування зимової гуми.",
-    "Odpowiedź C [UA]": "Рішуче пришвидшення руху."
+    "Odpowiedź C [UA]": "Рішуче пришвидшення руху.",
+    "Media": ""
   },
   {
     "Lp.": 336,
@@ -5066,7 +5085,7 @@
     "Numer pytania": 2927,
     "Pytanie": "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?",
     "Poprawna odp": "Tak",
-    "Media": "522.mp4",
+    "Media": "522.D28KW_org.mp4",
     "Kategorie": ["A", "B", "T", "AM", "A1", "A2", "B1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm2927.mp4",
     "Pytanie [ENG]": "You intend to turn left. Are you obliged to yield the right of way to the vehicle approaching from the left?",
@@ -5890,7 +5909,8 @@
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm3187.mp4",
     "Pytanie [ENG]": "Does the vehicle driver have a better ability to asses the risk on the road after using a small amount of drugs?",
     "Pytanie [DE]": "Ist der Fahrzeuglenker, nachdem er eine geringfügige Dosis eines Betäubungsmittels zu sich genommen hat, besser in der Lage, das Risiko auf der Straße richtig einzuschätzen?",
-    "Pytanie [UA]": "Чи вживання водієм невеликої кількості наркотику покращує його здатність правильно оцінювати ризики на дорозі?"
+    "Pytanie [UA]": "Чи вживання водієм невеликої кількості наркотику покращує його здатність правильно оцінювати ризики на дорозі?",
+    "Media": ""
   },
   {
     "Lp.": 443,
@@ -5939,7 +5959,8 @@
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm3232.mp4",
     "Pytanie [ENG]": "Does the vehicle driver have difficulties in simultaneous performance of two or more activities at the same time after alcohol consumption?",
     "Pytanie [DE]": "Hat der Fahrzeuglenker nach dem Alkoholgenuss Probleme damit,  zwei oder mehr Tätigkeiten gleichzeitig auszuführen?",
-    "Pytanie [UA]": "Чи може водій після вживання алкоголю мати труднощі з виконанням двох або більше дій одночасно?"
+    "Pytanie [UA]": "Чи може водій після вживання алкоголю мати труднощі з виконанням двох або більше дій одночасно?",
+    "Media": ""
   },
   {
     "Lp.": 447,
@@ -5987,7 +6008,8 @@
     "Pytanie [UA]": "Що з наведеного нижче Вам потрібно зробити, щоб плавно розпочати рух?",
     "Odpowiedź A [UA]": "Поступово відпускати педаль зчеплення.",
     "Odpowiedź B [UA]": "Раптово відпустити педаль зчеплення.",
-    "Odpowiedź C [UA]": "Спочатку значно збільшити оберти двигуна, потім швидко відпустити педаль зчеплення."
+    "Odpowiedź C [UA]": "Спочатку значно збільшити оберти двигуна, потім швидко відпустити педаль зчеплення.",
+    "Media": ""
   },
   {
     "Lp.": 450,
@@ -6025,7 +6047,8 @@
     "Pytanie [UA]": "Чого Ви не маєте права робити за кермом легкового автомобіля?",
     "Odpowiedź A [UA]": "Перевозити осіб у стані алкогольного сп'яніння.",
     "Odpowiedź B [UA]": "Користуватися телефоном, який потрібно тримати у руці.",
-    "Odpowiedź C [UA]": "Використовувати круїз-контроль у населених пунктах."
+    "Odpowiedź C [UA]": "Використовувати круїз-контроль у населених пунктах.",
+    "Media": ""
   },
   {
     "Lp.": 452,
@@ -6058,7 +6081,7 @@
     "Numer pytania": 3363,
     "Pytanie": "Czy w tej sytuacji masz prawo kilkukrotnie użyć sygnału dźwiękowego, zamiast zatrzymać pojazd?",
     "Poprawna odp": "Nie",
-    "Media": "532.mp4",
+    "Media": "532.D28KW_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm3363.mp4",
     "Pytanie [ENG]": "Is it reasonable to use the horn repeatedly instead of stopping the vehicle?",
@@ -6084,7 +6107,7 @@
     "Numer pytania": 3366,
     "Pytanie": "Czy w tej sytuacji dozwolone jest użycie sygnału dźwiękowego?",
     "Poprawna odp": "Nie",
-    "Media": "615.mp4",
+    "Media": "615.D29GMorg.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Is it allowed to use a sound signal in this situation?",
     "Pytanie [DE]": "Darf man in der dargestellten Situation das Tonsignal  benutzen?",
@@ -6338,7 +6361,8 @@
     "Pytanie [UA]": "Яку з перерахованих дій слід виконати, керуючи легковим автомобілем вночі під час туману?",
     "Odpowiedź A [UA]": "Зменшити швидкість.",
     "Odpowiedź B [UA]": "Увімкнути фари дальнього світла, щоб покращити видимість.",
-    "Odpowiedź C [UA]": "Їхати дуже близько до транспортного засобу, що рухається попереду, так, щоб бачити його габаритні вогні."
+    "Odpowiedź C [UA]": "Їхати дуже близько до транспортного засобу, що рухається попереду, так, щоб бачити його габаритні вогні.",
+    "Media": ""
   },
   {
     "Lp.": 476,
@@ -6579,7 +6603,8 @@
     "Pytanie [UA]": "Ви керуєте легковим автомобілем. Що Ви повинні зробити, проїжджаючи через велику калюжу?",
     "Odpowiedź A [UA]": "Рішуче пришвидшити.",
     "Odpowiedź B [UA]": "Раптово загальмувати.",
-    "Odpowiedź C [UA]": "Плавно зменшити швидкість руху."
+    "Odpowiedź C [UA]": "Плавно зменшити швидкість руху.",
+    "Media": ""
   },
   {
     "Lp.": 494,
@@ -6605,7 +6630,8 @@
     "Pytanie [UA]": "Ви керуєте автомобілем. Як себе вести, розминаючись з зустрічним транспортним засобом у нічний час?",
     "Odpowiedź A [UA]": "Дивитися прямо в фари зустрічного автомобіля.",
     "Odpowiedź B [UA]": "Змінити ближнє світло на дальнє.",
-    "Odpowiedź C [UA]": "Дивитися праворуч від джерела світла зустрічного автомобіля та стежити за можливими перешкодами."
+    "Odpowiedź C [UA]": "Дивитися праворуч від джерела світла зустрічного автомобіля та стежити за можливими перешкодами.",
+    "Media": ""
   },
   {
     "Lp.": 495,
@@ -6651,7 +6677,7 @@
     "Numer pytania": 3530,
     "Pytanie": "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu pojazdowi?",
     "Poprawna odp": "Tak",
-    "Media": "529.mp4",
+    "Media": "529.D28KW_org_2.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm3530.mp4",
     "Pytanie [ENG]": "You intend to continue going straight. Are you obliged to yield the right of way to the approaching vehicle?",
@@ -6753,7 +6779,7 @@
     "Numer pytania": 3544,
     "Pytanie": "Czy w tej sytuacji masz obowiązek używać świateł mijania?",
     "Poprawna odp": "Tak",
-    "Media": "B.mp4",
+    "Media": "B.1.6.2.Bzorg_2.mp4",
     "Kategorie": ["A", "B", "C", "D", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm3544.mp4",
     "Pytanie [ENG]": "Are you obliged to use the low-beam lights in this situation?",
@@ -6999,7 +7025,8 @@
     "Pytanie [UA]": "Ви стали свідком наїзду на пішохода. Що Ви повинні зробити?",
     "Odpowiedź A [UA]": "Нічого, адже допомогу повинен надати винуватець ДТП.",
     "Odpowiedź B [UA]": "Викликати службу допомоги на дорозі.",
-    "Odpowiedź C [UA]": "Зупинитися, викликати швидку медичну допомогу та надати першу медичну допомогу потерпілому."
+    "Odpowiedź C [UA]": "Зупинитися, викликати швидку медичну допомогу та надати першу медичну допомогу потерпілому.",
+    "Media": ""
   },
   {
     "Lp.": 525,
@@ -7170,7 +7197,8 @@
     "Pytanie [UA]": "Яку дистанцію слід дотримувати водієві легкового автомобіля, розминаючись з іншим зустрічним транспортним засобом?",
     "Odpowiedź A [UA]": "Безпечну, але не меншу ніж 1,5 метра.",
     "Odpowiedź B [UA]": "Безпечну, в залежності від ширини дороги та умов руху.",
-    "Odpowiedź C [UA]": "Безпечну, тобто завжди таку саму."
+    "Odpowiedź C [UA]": "Безпечну, тобто завжди таку саму.",
+    "Media": ""
   },
   {
     "Lp.": 533,
@@ -7196,7 +7224,8 @@
     "Pytanie [UA]": "Виконуючи який із наведених маневрів, Ви зобов’язані дотримуватися дистанції не менше 1 метра від транспортного засобу?",
     "Odpowiedź A [UA]": "Зустрічний роз'їзд з легковим автомобілем.",
     "Odpowiedź B [UA]": "Обгін велосипеда.",
-    "Odpowiedź C [UA]": "Об'їзд будь-якого транспортного засобу."
+    "Odpowiedź C [UA]": "Об'їзд будь-якого транспортного засобу.",
+    "Media": ""
   },
   {
     "Lp.": 534,
@@ -7222,7 +7251,8 @@
     "Pytanie [UA]": "Яку дистанцію слід дотримувати, об'їжджаючи легковим автомобілем перешкоду на дорозі?",
     "Odpowiedź A [UA]": "Безпечну, але не менше 0,8 метра.",
     "Odpowiedź B [UA]": "Безпечну, тобто завжди однакову.",
-    "Odpowiedź C [UA]": "Безпечну, в залежності від ширини дороги та умов руху."
+    "Odpowiedź C [UA]": "Безпечну, в залежності від ширини дороги та умов руху.",
+    "Media": ""
   },
   {
     "Lp.": 535,
@@ -7248,7 +7278,8 @@
     "Pytanie [UA]": "Яку дистанцію слід дотримувати при обгоні легкового автомобіля?",
     "Odpowiedź A [UA]": "Безпечну, в залежності від ширини дороги та умов руху.",
     "Odpowiedź B [UA]": "Безпечну, але більше 1,5 метрів.",
-    "Odpowiedź C [UA]": "Безпечну, але менше 0,5 метра."
+    "Odpowiedź C [UA]": "Безпечну, але менше 0,5 метра.",
+    "Media": ""
   },
   {
     "Lp.": 536,
@@ -7270,7 +7301,8 @@
     "Pytanie [UA]": "Яку дистанцію потрібно дотримувати, обганяючи мотоцикл?",
     "Odpowiedź A [UA]": "Безпечну, але не більше 0,5 метра.",
     "Odpowiedź B [UA]": "Безпечну, але не більше 1 метра.",
-    "Odpowiedź C [UA]": "Безпечну, але не менше 1 метра."
+    "Odpowiedź C [UA]": "Безпечну, але не менше 1 метра.",
+    "Media": ""
   },
   {
     "Lp.": 537,
@@ -7296,7 +7328,8 @@
     "Pytanie [UA]": "Яку дистанцію слід дотримувати, обганяючи колону пішоходів?",
     "Odpowiedź A [UA]": "Безпечну, але не менше 0,6 метра.",
     "Odpowiedź B [UA]": "Безпечну, але не менше 0,8 метра.",
-    "Odpowiedź C [UA]": "Безпечну, але не менше 1 метра."
+    "Odpowiedź C [UA]": "Безпечну, але не менше 1 метра.",
+    "Media": ""
   },
   {
     "Lp.": 538,
@@ -7318,7 +7351,8 @@
     "Pytanie [UA]": "Як подвоєння швидкості легкового автомобіля впливає на довжину його гальмівного шляху?",
     "Odpowiedź A [UA]": "Подвоює гальмівний шлях.",
     "Odpowiedź B [UA]": "В чотири рази збільшує гальмівний шлях.",
-    "Odpowiedź C [UA]": "Не змінює довжину гальмівного шляху."
+    "Odpowiedź C [UA]": "Не змінює довжину гальмівного шляху.",
+    "Media": ""
   },
   {
     "Lp.": 539,
@@ -7393,7 +7427,8 @@
     "Pytanie [UA]": "Яку дистанцію слід дотримувати до транспортного засобу, що їде попереду, їдучи легковим автомобілем за межами населеного пункту в тунелі довжиною 600 метрів?",
     "Odpowiedź A [UA]": "Не менше 50 метрів.",
     "Odpowiedź B [UA]": "Не менше 40 метрів.",
-    "Odpowiedź C [UA]": "Не менше 30 метрів."
+    "Odpowiedź C [UA]": "Не менше 30 метрів.",
+    "Media": ""
   },
   {
     "Lp.": 544,
@@ -7415,7 +7450,8 @@
     "Pytanie [UA]": "Який чинник безпосередньо впливає на гальмівний шлях легкового автомобіля?",
     "Odpowiedź A [UA]": "Час реакції водія транспортного засобу.",
     "Odpowiedź B [UA]": "Вага пасажирів.",
-    "Odpowiedź C [UA]": "Маса транспортного засобу."
+    "Odpowiedź C [UA]": "Маса транспортного засобу.",
+    "Media": ""
   },
   {
     "Lp.": 545,
@@ -7441,14 +7477,15 @@
     "Pytanie [UA]": "Який чинник безпосередньо впливає на гальмівний шлях легкового автомобіля?",
     "Odpowiedź A [UA]": "Вага пасажира.",
     "Odpowiedź B [UA]": "Швидкість і стан дороги.",
-    "Odpowiedź C [UA]": "Маса транспортного засобу."
+    "Odpowiedź C [UA]": "Маса транспортного засобу.",
+    "Media": ""
   },
   {
     "Lp.": 546,
     "Numer pytania": 3653,
     "Pytanie": "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?",
     "Poprawna odp": "Tak",
-    "Media": "642.mp4",
+    "Media": "642.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Can you use the horn if the presented vehicle starts to change the lane while you are overtaking?",
     "Pytanie [DE]": "Darf  man das Tonsignal benutzen, wenn dieses Fahrzeug beginnt, die Fahrspur zu wechseln, während du grade dabei bist, das Überholmanöver auszuführen?",
@@ -7485,7 +7522,8 @@
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "You are involved in a road accident. Are you obliged to give first aid to the injured persons if you do not have medical qualifications?",
     "Pytanie [DE]": "Sie sind an einem Verkehrsunfall beteiligt. Haben Sie die Pflicht, den Verletzten Hilfe zu leisten, auch wenn Sie keine medizinischen Qualifikationen haben?",
-    "Pytanie [UA]": "Якщо Ви потрапили в дорожньо-транспортну пригоду, чи зобов'язані Ви надавати допомогу постраждалим, навіть якщо у Вас немає медичної освіти?"
+    "Pytanie [UA]": "Якщо Ви потрапили в дорожньо-транспортну пригоду, чи зобов'язані Ви надавати допомогу постраждалим, навіть якщо у Вас немає медичної освіти?",
+    "Media": ""
   },
   {
     "Lp.": 550,
@@ -7739,7 +7777,8 @@
     "Pytanie [UA]": "Який із перерахованих елементів є обов’язковим оснащенням кожного легкового автомобіля?",
     "Odpowiedź A [UA]": "Трикутник попередження.",
     "Odpowiedź B [UA]": "Аптечка першої допомоги.",
-    "Odpowiedź C [UA]": "Запасне колесо."
+    "Odpowiedź C [UA]": "Запасне колесо.",
+    "Media": ""
   },
   {
     "Lp.": 569,
@@ -7765,7 +7804,8 @@
     "Pytanie [UA]": "Який із перерахованих елементів є обов’язковим оснащенням кожного легкового автомобіля?",
     "Odpowiedź A [UA]": "Аптечка першої допомоги.",
     "Odpowiedź B [UA]": "Вогнегасник.",
-    "Odpowiedź C [UA]": "Запасне колесо."
+    "Odpowiedź C [UA]": "Запасне колесо.",
+    "Media": ""
   },
   {
     "Lp.": 570,
@@ -7824,7 +7864,8 @@
     "Pytanie [UA]": "Які з наведених нижче фар дозволено використовувати під час керування легковим автомобілем в умовах туману?",
     "Odpowiedź A [UA]": "Денні ходові вогні.",
     "Odpowiedź B [UA]": "Передні протитуманні фари.",
-    "Odpowiedź C [UA]": "Тільки дальнє світло фар."
+    "Odpowiedź C [UA]": "Тільки дальнє світло фар.",
+    "Media": ""
   },
   {
     "Lp.": 574,
@@ -7850,7 +7891,8 @@
     "Pytanie [UA]": "Які з цих дій Ви зобов’язані виконати, обганяючи легковий автомобіль у тумані за межами населеного пункту?",
     "Odpowiedź A [UA]": "Подавати короткочасні світлові сигнали.",
     "Odpowiedź B [UA]": "Подавати короткочасні звукові сигнали.",
-    "Odpowiedź C [UA]": "Вмикати задні протитуманні фари незалежно від ступеня обмеження видимості."
+    "Odpowiedź C [UA]": "Вмикати задні протитуманні фари незалежно від ступеня обмеження видимості.",
+    "Media": ""
   },
   {
     "Lp.": 575,
@@ -7912,7 +7954,8 @@
     "Pytanie [UA]": "Ви керуєте автомобілем. Як себе вести, розминаючись з зустрічним транспортним засобом у нічний час?",
     "Odpowiedź A [UA]": "Дивитися прямо в фари зустрічного автомобіля.",
     "Odpowiedź B [UA]": "Змінити ближнє світло на дальнє.",
-    "Odpowiedź C [UA]": "Дивитися праворуч від джерела світла зустрічного автомобіля та стежити за можливими перешкодами."
+    "Odpowiedź C [UA]": "Дивитися праворуч від джерела світла зустрічного автомобіля та стежити за можливими перешкодами.",
+    "Media": ""
   },
   {
     "Lp.": 579,
@@ -7938,7 +7981,8 @@
     "Pytanie [UA]": "Чи в кожній фарі легкового автомобіля дозволяється застосовувати ксенонову лампу замість галогенної?",
     "Odpowiedź A [UA]": "Так, в екстрених ситуаціях.",
     "Odpowiedź B [UA]": "Ні, тому що це може засліпити інших водіїв.",
-    "Odpowiedź C [UA]": "Так, якщо цоколь лампи підходить до гнізда фари."
+    "Odpowiedź C [UA]": "Так, якщо цоколь лампи підходить до гнізда фари.",
+    "Media": ""
   },
   {
     "Lp.": 580,
@@ -7960,7 +8004,8 @@
     "Pytanie [UA]": "Яка з перерахованих нижче дій дозволена під час керування легковим автомобілем?",
     "Odpowiedź A [UA]": "Використання навігації.",
     "Odpowiedź B [UA]": "Відстібання ременя безпеки.",
-    "Odpowiedź C [UA]": "Розмова по телефону, яка вимагає тримання телефону у руці."
+    "Odpowiedź C [UA]": "Розмова по телефону, яка вимагає тримання телефону у руці.",
+    "Media": ""
   },
   {
     "Lp.": 581,
@@ -7986,7 +8031,8 @@
     "Pytanie [UA]": "Яка мінімальна допустима глибина протектора для шини без індикатора зносу?",
     "Odpowiedź A [UA]": "1,6 міліметра.",
     "Odpowiedź B [UA]": "2,6 міліметра.",
-    "Odpowiedź C [UA]": "3 міліметри."
+    "Odpowiedź C [UA]": "3 міліметри.",
+    "Media": ""
   },
   {
     "Lp.": 582,
@@ -8012,7 +8058,8 @@
     "Pytanie [UA]": "Яка з перелічених несправностей перешкоджає безпечній експлуатації автомобіля в дорожньому русі?",
     "Odpowiedź A [UA]": "Забруднений елемент повітряного фільтра.",
     "Odpowiedź B [UA]": "Перегрів електродів свічок запалювання.",
-    "Odpowiedź C [UA]": "Перегоріла лампочка заднього лівого поворотника."
+    "Odpowiedź C [UA]": "Перегоріла лампочка заднього лівого поворотника.",
+    "Media": ""
   },
   {
     "Lp.": 583,
@@ -8114,7 +8161,8 @@
     "Pytanie [UA]": "До чого може призвести занадто слабке натискання на педаль гальма в легковому автомобілі?",
     "Odpowiedź A [UA]": "До збільшення гальмівного шляху.",
     "Odpowiedź B [UA]": "До заблокування коліс.",
-    "Odpowiedź C [UA]": "До втрати автомобілем керованості."
+    "Odpowiedź C [UA]": "До втрати автомобілем керованості.",
+    "Media": ""
   },
   {
     "Lp.": 590,
@@ -8136,7 +8184,8 @@
     "Pytanie [UA]": "До чого може призвести надмірне гальмування легкового автомобіля, не обладнаного системою ABS?",
     "Odpowiedź A [UA]": "До скорочення гальмівного шляху принаймні вдвічі.",
     "Odpowiedź B [UA]": "До втрати автомобілем керованості.",
-    "Odpowiedź C [UA]": "До знищення гальм."
+    "Odpowiedź C [UA]": "До знищення гальм.",
+    "Media": ""
   },
   {
     "Lp.": 591,
@@ -8158,7 +8207,8 @@
     "Pytanie [UA]": "Який спосіб гальмування легкового автомобіля, обладнаного системою ABS, найбільш ефективний?",
     "Odpowiedź A [UA]": "Пульсаційне втискання педалі гальма.",
     "Odpowiedź B [UA]": "Швидке і сильне натиснення на педаль гальма.",
-    "Odpowiedź C [UA]": "Натискання педалі зчеплення, а потім педалі гальма."
+    "Odpowiedź C [UA]": "Натискання педалі зчеплення, а потім педалі гальма.",
+    "Media": ""
   },
   {
     "Lp.": 592,
@@ -8180,7 +8230,8 @@
     "Pytanie [UA]": "Яку дію слід виконати, якщо працююча система ABS випихає педаль гальма під час гальмування?",
     "Odpowiedź A [UA]": "Утримувати силу натиску на педаль гальма.",
     "Odpowiedź B [UA]": "Зменшити натиск на педаль гальма.",
-    "Odpowiedź C [UA]": "Відпустити педаль гальма."
+    "Odpowiedź C [UA]": "Відпустити педаль гальма.",
+    "Media": ""
   },
   {
     "Lp.": 593,
@@ -8206,7 +8257,8 @@
     "Pytanie [UA]": "У якому випадку система ABS може допомогти водієві зберегти керованість?",
     "Odpowiedź A [UA]": "Під час гальмування, коли автомобіль увійшов у бічний занос.",
     "Odpowiedź B [UA]": "Тільки при гальмуванні на прямій ділянці дороги.",
-    "Odpowiedź C [UA]": "Тільки при гальмуванні на повороті."
+    "Odpowiedź C [UA]": "Тільки при гальмуванні на повороті.",
+    "Media": ""
   },
   {
     "Lp.": 594,
@@ -8232,7 +8284,8 @@
     "Pytanie [UA]": "Який ефект може виникнути, якщо при рушанні на підйомі, занадто рано відпустити важіль стоянкового гальма порівняно з відпусканням педалі зчеплення?",
     "Odpowiedź A [UA]": "Заглохне двигун.",
     "Odpowiedź B [UA]": "Транспортний засіб відкотиться назад.",
-    "Odpowiedź C [UA]": "Раптовий рух вперед."
+    "Odpowiedź C [UA]": "Раптовий рух вперед.",
+    "Media": ""
   },
   {
     "Lp.": 595,
@@ -8266,7 +8319,8 @@
     "Pytanie [UA]": "Яку з перелічених дій слід виконати, якщо під час руху загоряється червона лампочка індикатора гальмівної системи?",
     "Odpowiedź A [UA]": "Знизити швидкість і дочекатися аж лампочка згасне.",
     "Odpowiedź B [UA]": "Зупинити автомобіль і перевірити рівень гальмівної рідини.",
-    "Odpowiedź C [UA]": "Продовжувати рух і повідомити про цей стан під час наступного періодичного техогляду автомобіля."
+    "Odpowiedź C [UA]": "Продовжувати рух і повідомити про цей стан під час наступного періодичного техогляду автомобіля.",
+    "Media": ""
   },
   {
     "Lp.": 597,
@@ -8292,7 +8346,8 @@
     "Pytanie [UA]": "Про що попереджає індикатор системи охолодження, який світиться червоним кольором під час руху легкового автомобіля?",
     "Odpowiedź A [UA]": "Надто висока температура охолоджуючої рідини.",
     "Odpowiedź B [UA]": "Занадто низька температура охолоджуючої рідини.",
-    "Odpowiedź C [UA]": "Занадто низький рівень рідини для омивання вітрового скла."
+    "Odpowiedź C [UA]": "Занадто низький рівень рідини для омивання вітрового скла.",
+    "Media": ""
   },
   {
     "Lp.": 598,
@@ -8318,7 +8373,8 @@
     "Pytanie [UA]": "Яка з наведених обставин може свідчити про поганий технічний стан легкового автомобіля?",
     "Odpowiedź A [UA]": "Викид безбарвних вихлопних газів.",
     "Odpowiedź B [UA]": "На парковці залишилися сліди витоку робочих рідин.",
-    "Odpowiedź C [UA]": "Перед запуском двигуна індикатор зарядки батареї світиться червоним."
+    "Odpowiedź C [UA]": "Перед запуском двигуна індикатор зарядки батареї світиться червоним.",
+    "Media": ""
   },
   {
     "Lp.": 599,
@@ -8340,7 +8396,8 @@
     "Pytanie [UA]": "Яка з наведених обставин може свідчити про поганий технічний стан легкового автомобіля?",
     "Odpowiedź A [UA]": "Викид чорних або синіх густих вихлопних газів.",
     "Odpowiedź B [UA]": "Викид безбарвних вихлопних газів.",
-    "Odpowiedź C [UA]": "Перед запуском двигуна індикатор тиску моторного масла загоряється червоним кольором."
+    "Odpowiedź C [UA]": "Перед запуском двигуна індикатор тиску моторного масла загоряється червоним кольором.",
+    "Media": ""
   },
   {
     "Lp.": 600,
@@ -8366,7 +8423,8 @@
     "Pytanie [UA]": "У якому з наведених випадків експлуатація легкового автомобіля не загрожує безпеці дорожнього руху?",
     "Odpowiedź A [UA]": "Надмірно зношені гальмівні колодки або диски.",
     "Odpowiedź B [UA]": "Пошкоджені передні амортизатори.",
-    "Odpowiedź C [UA]": "Короткочасне використання запасного колеса при пошкодженні однієї з шин."
+    "Odpowiedź C [UA]": "Короткочасне використання запасного колеса при пошкодженні однієї з шин.",
+    "Media": ""
   },
   {
     "Lp.": 601,
@@ -8572,7 +8630,8 @@
     "Pytanie [UA]": "Яка з наведених дій підвищить безпеку під час керування легковим автомобілем у тумані, коли видимість обмежена до 40 метрів?",
     "Odpowiedź A [UA]": "Увімкнення дальнього світла фар.",
     "Odpowiedź B [UA]": "Зменшення дистанції до автомобіля попереду.",
-    "Odpowiedź C [UA]": "Увімкнення задніх протитуманних фар."
+    "Odpowiedź C [UA]": "Увімкнення задніх протитуманних фар.",
+    "Media": ""
   },
   {
     "Lp.": 617,
@@ -8648,7 +8707,7 @@
     "Numer pytania": 4242,
     "Pytanie": "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?",
     "Poprawna odp": "Tak",
-    "Media": "B.mp4",
+    "Media": "B.1.6.4.bzorg_skrocony.mp4",
     "Kategorie": ["A", "B", "C", "D", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm4242.mp4",
     "Pytanie [ENG]": "After passing the vehicle in this situation, are you allowed to change the low beam lights into high beam lights?",
@@ -8661,7 +8720,7 @@
     "Numer pytania": 4243,
     "Pytanie": "Czy w tej sytuacji, kierując pojazdem samochodowym, wolno Ci używac wyłącznie świateł pozycyjnych?.",
     "Poprawna odp": "Nie",
-    "Media": "642.mp4",
+    "Media": "642.D33org.mp4",
     "Kategorie": ["A", "B", "C", "D", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "When driving a motor vehicle in these conditions, are you allowed to use position lights only?",
     "Pytanie [DE]": "Darf man in dieser Situation beim Lenken eines Motorfahrzeuges ausschließlich Begrenzungslicht benutzen?",
@@ -8943,7 +9002,8 @@
     "Pytanie [UA]": "Який ризик заносу автомобіля під час руху під дощем?",
     "Odpowiedź A [UA]": "Найбільший у початковій фазі дощу.",
     "Odpowiedź B [UA]": "Найменший у початковій фазі дощу.",
-    "Odpowiedź C [UA]": "Найбільший в кінцевій фазі дощу."
+    "Odpowiedź C [UA]": "Найбільший в кінцевій фазі дощу.",
+    "Media": ""
   },
   {
     "Lp.": 646,
@@ -8969,7 +9029,8 @@
     "Pytanie [UA]": "Як швидкість руху впливає на кут огляду водія легкового автомобіля?",
     "Odpowiedź A [UA]": "Зі збільшенням швидкості кут огляду звужується.",
     "Odpowiedź B [UA]": "Зі збільшенням швидкості кут огляду розширюється.",
-    "Odpowiedź C [UA]": "Швидкість руху не має впливу."
+    "Odpowiedź C [UA]": "Швидкість руху не має впливу.",
+    "Media": ""
   },
   {
     "Lp.": 647,
@@ -8995,7 +9056,8 @@
     "Pytanie [UA]": "Який із наведених чинників може обмежити поле зору водія легкового автомобіля?",
     "Odpowiedź A [UA]": "Використання кондиціонера під час дощу.",
     "Odpowiedź B [UA]": "Дзеркало заднього ходу.",
-    "Odpowiedź C [UA]": "Засліплення вогнями зустрічних транспортних засобів."
+    "Odpowiedź C [UA]": "Засліплення вогнями зустрічних транспортних засобів.",
+    "Media": ""
   },
   {
     "Lp.": 648,
@@ -9021,7 +9083,8 @@
     "Pytanie [UA]": "Який із наведених чинників може обмежити поле зору водія легкового автомобіля під час руху вночі?",
     "Odpowiedź A [UA]": "Знижена швидкість.",
     "Odpowiedź B [UA]": "Пошкоджена система ABS.",
-    "Odpowiedź C [UA]": "Не відрегульовані належним чином фари."
+    "Odpowiedź C [UA]": "Не відрегульовані належним чином фари.",
+    "Media": ""
   },
   {
     "Lp.": 649,
@@ -9043,7 +9106,8 @@
     "Pytanie [UA]": "Який із перерахованих чинників має вплив на обмеження поля зору водія легкового автомобіля?",
     "Odpowiedź A [UA]": "Моргання очей під час перерв у водінні.",
     "Odpowiedź B [UA]": "15 хвилин відпочинку після двох годин їзди.",
-    "Odpowiedź C [UA]": "Керування автомобілем у нетверезому стані."
+    "Odpowiedź C [UA]": "Керування автомобілем у нетверезому стані.",
+    "Media": ""
   },
   {
     "Lp.": 650,
@@ -9065,7 +9129,8 @@
     "Pytanie [UA]": "Який із наведених чинників може обмежити поле зору водія легкового автомобіля?",
     "Odpowiedź A [UA]": "Сидіння водія встановлено занадто низько або занадто високо.",
     "Odpowiedź B [UA]": "15 хвилин відпочинку після двох годин їзди.",
-    "Odpowiedź C [UA]": "Сонцезахисні окуляри в сонячний день."
+    "Odpowiedź C [UA]": "Сонцезахисні окуляри в сонячний день.",
+    "Media": ""
   },
   {
     "Lp.": 651,
@@ -9091,7 +9156,8 @@
     "Pytanie [UA]": "Як швидкість руху впливає на кут огляду водія легкового автомобіля?",
     "Odpowiedź A [UA]": "Зі збільшенням швидкості кут огляду стає більшим.",
     "Odpowiedź B [UA]": "Зі збільшенням швидкості кут огляду стає меншим.",
-    "Odpowiedź C [UA]": "Швидкість не має впливу."
+    "Odpowiedź C [UA]": "Швидкість не має впливу.",
+    "Media": ""
   },
   {
     "Lp.": 652,
@@ -9163,7 +9229,8 @@
     "Pytanie [UA]": "Як слід діяти, щоб розігнати легковий автомобіль на рівній ділянці дороги?",
     "Odpowiedź A [UA]": "Використати максимальні обороти двигуна на кожній передачі.",
     "Odpowiedź B [UA]": "Розігнатися до такої швидкості на нижчій передачі, щоб автомобіль не шарпався і не захлинався після переходу на вищу передачу.",
-    "Odpowiedź C [UA]": "У кожному випадку збільшити передачі на дві."
+    "Odpowiedź C [UA]": "У кожному випадку збільшити передачі на дві.",
+    "Media": ""
   },
   {
     "Lp.": 655,
@@ -9189,7 +9256,8 @@
     "Pytanie [UA]": "Яким чином дозволяється перевозити велосипеди в легковому автомобілі?",
     "Odpowiedź A [UA]": "Розміщені в тримачах в задній частині автомобіля, навіть, якщо закривають номерні знаки автомобіля.",
     "Odpowiedź B [UA]": "Розміщені в тримачах в задній частині автомобіля, навіть якщо закривають одну автомобільну фару.",
-    "Odpowiedź C [UA]": "Розміщені в тримачах, встановлених на даху автомобіля на спеціальному багажнику."
+    "Odpowiedź C [UA]": "Розміщені в тримачах, встановлених на даху автомобіля на спеціальному багажнику.",
+    "Media": ""
   },
   {
     "Lp.": 656,
@@ -9320,7 +9388,7 @@
     "Numer pytania": 4395,
     "Pytanie": "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?",
     "Poprawna odp": "Nie",
-    "Media": "B.mp4",
+    "Media": "B.1.6.6.Bzorgbezmaski.mp4",
     "Kategorie": ["A", "B", "C", "D", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Can you drive with high-beam lights switched on in this situation?",
     "Pytanie [DE]": "Darf man in dieser Situation mit eingeschaltetem Fernlicht fahren?",
@@ -9427,7 +9495,8 @@
     "Pytanie [UA]": "У якому з наведених випадків регулярний технічний огляд транспортного засобу впливає на його безпечну експлуатацію в дорожньому русі?",
     "Odpowiedź A [UA]": "Виключно після закінчення гарантійного терміну експлуатації автомобіля.",
     "Odpowiedź B [UA]": "Тільки протягом гарантійного терміну експлуатації автомобіля.",
-    "Odpowiedź C [UA]": "Протягом усього періоду експлуатації автомобіля."
+    "Odpowiedź C [UA]": "Протягом усього періоду експлуатації автомобіля.",
+    "Media": ""
   },
   {
     "Lp.": 674,
@@ -9638,7 +9707,8 @@
     "Pytanie [UA]": "З якою метою застосовують систему ABS в легковому автомобілі?",
     "Odpowiedź A [UA]": "Запобігання втрати стійкості (стабільності) та забезпечення керованості автомобіля при гальмуванні.",
     "Odpowiedź B [UA]": "Запобігання заносу транспортного засобу - незалежно від його швидкості та дорожніх умов.",
-    "Odpowiedź C [UA]": "Полегшення виконання поворотів."
+    "Odpowiedź C [UA]": "Полегшення виконання поворотів.",
+    "Media": ""
   },
   {
     "Lp.": 684,
@@ -9664,7 +9734,8 @@
     "Pytanie [UA]": "Що слід зробити, їдучи легковим автомобілем по засніженій дорозі?",
     "Odpowiedź A [UA]": "Уникати різких рухів керма.",
     "Odpowiedź B [UA]": "Від'єднати систему контролю тяги.",
-    "Odpowiedź C [UA]": "Збільшити швидкість на підйомах."
+    "Odpowiedź C [UA]": "Збільшити швидкість на підйомах.",
+    "Media": ""
   },
   {
     "Lp.": 685,
@@ -9690,7 +9761,8 @@
     "Pytanie [UA]": "Хто несе кримінальну відповідальність у разі ненадання допомоги потерпілому в ДТП з безпосередньою загрозою для здоров’я та життя?",
     "Odpowiedź A [UA]": "Кожна особа, яка могла надати допомогу, не наражаючи себе чи іншу особу на ризик втрати життя чи серйозної шкоди здоров’ю, але цього не зробила.",
     "Odpowiedź B [UA]": "Тільки лікар.",
-    "Odpowiedź C [UA]": "Тільки учасник ДТП."
+    "Odpowiedź C [UA]": "Тільки учасник ДТП.",
+    "Media": ""
   },
   {
     "Lp.": 686,
@@ -9716,7 +9788,8 @@
     "Pytanie [UA]": "Як поводитися з особою, постраждалою в ДТП, яка перебуває в транспортному засобі?",
     "Odpowiedź A [UA]": "Таку особу треба евакуювати з транспортного засобу – у будь-якому випадку.",
     "Odpowiedź B [UA]": "Таку особу потрібно евакуювати з транспортного засобу – якщо у неї діагностовано зупинку серця.",
-    "Odpowiedź C [UA]": "Таку особу слід завжди залишати в транспортному засобі до приїзду лікаря."
+    "Odpowiedź C [UA]": "Таку особу слід завжди залишати в транспортному засобі до приїзду лікаря.",
+    "Media": ""
   },
   {
     "Lp.": 687,
@@ -9738,7 +9811,8 @@
     "Pytanie [UA]": "Ви стали учасником або свідком дорожньо-транспортної пригоди. Яку з наведених нижче інформацій Ви повинні повідомити, зателефонувавши на номер екстреної допомоги?",
     "Odpowiedź A [UA]": "Місце ДТП та кількість і стан потерпілих.",
     "Odpowiedź B [UA]": "Лише кількість транспортних засобів, які потрапили в ДТП.",
-    "Odpowiedź C [UA]": "Лише кількість жертв ДТП."
+    "Odpowiedź C [UA]": "Лише кількість жертв ДТП.",
+    "Media": ""
   },
   {
     "Lp.": 688,
@@ -9760,7 +9834,8 @@
     "Pytanie [UA]": "Ви стали учасником або свідком дорожньо-транспортної пригоди. Що робити, якщо на постраждалому горить одяг?",
     "Odpowiedź A [UA]": "Перевернути постраждалого на землю та загасити вогонь, накривши його, наприклад, курткою, ковдрою чи пальто.",
     "Odpowiedź B [UA]": "Дочекатися прибуття пожежної бригади.",
-    "Odpowiedź C [UA]": "Загасити пожежу вогнегасником."
+    "Odpowiedź C [UA]": "Загасити пожежу вогнегасником.",
+    "Media": ""
   },
   {
     "Lp.": 689,
@@ -9782,7 +9857,8 @@
     "Pytanie [UA]": "Яка з перелічених несправностей перешкоджає експлуатації легкового автомобіля в дорожньому русі?",
     "Odpowiedź A [UA]": "Не працюють датчики паркування.",
     "Odpowiedź B [UA]": "Кондиціонер не працює.",
-    "Odpowiedź C [UA]": "Не працюють стоп-сигнали."
+    "Odpowiedź C [UA]": "Не працюють стоп-сигнали.",
+    "Media": ""
   },
   {
     "Lp.": 690,
@@ -9808,7 +9884,8 @@
     "Pytanie [UA]": "Яку з наведених нижче дій слід виконати в першу чергу, якщо під час руху на панелі приладів загоряється червоним індикатор тиску моторного масла?",
     "Odpowiedź A [UA]": "Продовжувати рух на малій швидкості.",
     "Odpowiedź B [UA]": "Збільшити оберти двигуна.",
-    "Odpowiedź C [UA]": "Зупинити автомобіль і вимкнути двигун."
+    "Odpowiedź C [UA]": "Зупинити автомобіль і вимкнути двигун.",
+    "Media": ""
   },
   {
     "Lp.": 691,
@@ -9856,7 +9933,8 @@
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm4600.mp4",
     "Pytanie [ENG]": "Is the number 112 an all-Poland emergency number for all emergency services?",
     "Pytanie [DE]": "Ist die Telefonnummer 112 eine überall in Polen geltende Notrufnummer für alle Rettungsdienste?",
-    "Pytanie [UA]": "Чи номер телефону 112 є загальнонаціональним номером для всіх видів екстреної допомоги?"
+    "Pytanie [UA]": "Чи номер телефону 112 є загальнонаціональним номером для всіх видів екстреної допомоги?",
+    "Media": ""
   },
   {
     "Lp.": 695,
@@ -12674,7 +12752,8 @@
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm6318.mp4",
     "Pytanie [ENG]": "Can consuming alcohol affect a driver's field of vision?",
     "Pytanie [DE]": "Wirkt sich der konsumierte Alkohol auf eine Änderung des Sichtfeldes des Fahrzeugführers aus?",
-    "Pytanie [UA]": "Чи впливає вживання алкоголю на зміну поля зору водія?"
+    "Pytanie [UA]": "Чи впливає вживання алкоголю на зміну поля зору водія?",
+    "Media": ""
   },
   {
     "Lp.": 921,
@@ -12902,7 +12981,8 @@
     "Pytanie [UA]": "Яку функцію Виконують подушки безпеки?",
     "Odpowiedź A [UA]": "Вони зменшують пошкодження автомобіля під час зіткнення.",
     "Odpowiedź B [UA]": "Вони забезпечують повний захист водія і пасажирів під час зіткнення.",
-    "Odpowiedź C [UA]": "Вони зменшують тілесні ушкодження, які можуть отримати водій і пасажири в результаті зіткнення."
+    "Odpowiedź C [UA]": "Вони зменшують тілесні ушкодження, які можуть отримати водій і пасажири в результаті зіткнення.",
+    "Media": ""
   },
   {
     "Lp.": 932,
@@ -13267,7 +13347,8 @@
     "Pytanie [UA]": "Коли Ви зобов'язані переходити з дальнього світла на ближнє?",
     "Odpowiedź A [UA]": "Коли з зустрічного напрямку наближається інший транспортний засіб.",
     "Odpowiedź B [UA]": "Коли починається дощ.",
-    "Odpowiedź C [UA]": "Коли в'їжджаєте в населений пункт."
+    "Odpowiedź C [UA]": "Коли в'їжджаєте в населений пункт.",
+    "Media": ""
   },
   {
     "Lp.": 946,
@@ -13293,7 +13374,8 @@
     "Pytanie [UA]": "Коли Ви зобов'язані переходити з дальнього світла на ближнє?",
     "Odpowiedź A [UA]": "Завжди, коли Ви бачите попереду транспортний засіб.",
     "Odpowiedź B [UA]": "Завжди, коли існує ймовірність засліпити водія транспортного засобу, що їде попереду.",
-    "Odpowiedź C [UA]": "Щоразу, коли бачите хоч одного пішохода на проїжджій частині."
+    "Odpowiedź C [UA]": "Щоразу, коли бачите хоч одного пішохода на проїжджій частині.",
+    "Media": ""
   },
   {
     "Lp.": 947,
@@ -13646,7 +13728,8 @@
     "Pytanie [UA]": "Що Ви повинні бачити в добре відрегульованих зовнішніх дзеркалах під час руху легкового автомобіля?",
     "Odpowiedź A [UA]": "Тільки бічні частини автомобіля.",
     "Odpowiedź B [UA]": "Зону позаду транспортного засобу та з боків автомобіля.",
-    "Odpowiedź C [UA]": "Тільки сусідню смугу руху."
+    "Odpowiedź C [UA]": "Тільки сусідню смугу руху.",
+    "Media": ""
   },
   {
     "Lp.": 961,
@@ -14627,7 +14710,8 @@
     "Pytanie [UA]": "Для чого потрібні габаритні вогні автомобіля?",
     "Odpowiedź A [UA]": "Для освітлення дороги.",
     "Odpowiedź B [UA]": "Для визначення положення автомобіля.",
-    "Odpowiedź C [UA]": "Для подачі сигналу про зміну смуги руху."
+    "Odpowiedź C [UA]": "Для подачі сигналу про зміну смуги руху.",
+    "Media": ""
   },
   {
     "Lp.": 999,
@@ -14653,7 +14737,8 @@
     "Pytanie [UA]": "До чого може привести неправильно відрегульоване ближнє світло фар?",
     "Odpowiedź A [UA]": "До підвищеної витрати пального.",
     "Odpowiedź B [UA]": "До підвищеного світлоспоживання.",
-    "Odpowiedź C [UA]": "До осліплення зустрічних водіїв."
+    "Odpowiedź C [UA]": "До осліплення зустрічних водіїв.",
+    "Media": ""
   },
   {
     "Lp.": 1000,
@@ -14860,7 +14945,8 @@
     "Pytanie [UA]": "До чого може призвести неправильно відрегульоване ближнє світло фар?",
     "Odpowiedź A [UA]": "До підвищеної витрати пального.",
     "Odpowiedź B [UA]": "До погіршення видимості дороги вночі.",
-    "Odpowiedź C [UA]": "До збільшеної витрати лампочок."
+    "Odpowiedź C [UA]": "До збільшеної витрати лампочок.",
+    "Media": ""
   },
   {
     "Lp.": 1008,
@@ -15051,7 +15137,8 @@
     "Pytanie [UA]": "Під час руху взимку Ви побачили на узбіччі синього, напівпритомного, переохолодженого чоловіка. Як йому допомогти?",
     "Odpowiedź A [UA]": "Дати йому гарячий напій.",
     "Odpowiedź B [UA]": "Дати йому алкоголь.",
-    "Odpowiedź C [UA]": "Викликати бригаду екстреної (швидкої) медичної допомоги, віднести його в машину, прикрити і повільно зігріти."
+    "Odpowiedź C [UA]": "Викликати бригаду екстреної (швидкої) медичної допомоги, віднести його в машину, прикрити і повільно зігріти.",
+    "Media": ""
   },
   {
     "Lp.": 1016,
@@ -15217,7 +15304,7 @@
     "Numer pytania": 7127,
     "Pytanie": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?",
     "Poprawna odp": "Tak",
-    "Media": "634.mp4",
+    "Media": "634.D33_org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm7127.mp4",
     "Pytanie [ENG]": "Can you use the horn in this situation to warn the pedestrian of danger?",
@@ -15242,7 +15329,7 @@
     "Numer pytania": 7129,
     "Pytanie": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?",
     "Poprawna odp": "Tak",
-    "Media": "626.mp4",
+    "Media": "626.D33_1org.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm7129.mp4",
     "Pytanie [ENG]": "Can you use the horn in this situation to warn the pedestrian of danger?",
@@ -17641,7 +17728,8 @@
     "Pytanie [UA]": "Яку з цих дій Вам заборонено виконувати легковим автомобілем?",
     "Odpowiedź A [UA]": "Буксирувати легкий причіп.",
     "Odpowiedź B [UA]": "Буксирувати інший легковий автомобіль у межах населеного пункту.",
-    "Odpowiedź C [UA]": "Тягти дітей на санчатах."
+    "Odpowiedź C [UA]": "Тягти дітей на санчатах.",
+    "Media": ""
   },
   {
     "Lp.": 1216,
@@ -17663,7 +17751,8 @@
     "Pytanie [UA]": "Яку дистанцію потрібно дотримувати до транспортного засобу, що їде попереду, у разі зупинки в тунелі через затор («корок»)?",
     "Odpowiedź A [UA]": "Не менше 3 метрів.",
     "Odpowiedź B [UA]": "Не менше 5 метрів.",
-    "Odpowiedź C [UA]": "Не менше 10 метрів."
+    "Odpowiedź C [UA]": "Не менше 10 метрів.",
+    "Media": ""
   },
   {
     "Lp.": 1217,
@@ -17685,7 +17774,8 @@
     "Pytanie [UA]": "Яка з перерахованих нижче дій заборонена за кермом?",
     "Odpowiedź A [UA]": "Слухання радіо.",
     "Odpowiedź B [UA]": "Використання GPS-навігації.",
-    "Odpowiedź C [UA]": "Розмова по телефону, яка вимагає тримати апарат або мікрофон у руці."
+    "Odpowiedź C [UA]": "Розмова по телефону, яка вимагає тримати апарат або мікрофон у руці.",
+    "Media": ""
   },
   {
     "Lp.": 1218,
@@ -17729,7 +17819,8 @@
     "Pytanie [UA]": "Прапорцем якого кольору дозволено позначати вантаж, що виступає за задню частину легкового автомобіля?",
     "Odpowiedź A [UA]": "Зеленого.",
     "Odpowiedź B [UA]": "Жовтого.",
-    "Odpowiedź C [UA]": "Червоного."
+    "Odpowiedź C [UA]": "Червоного.",
+    "Media": ""
   },
   {
     "Lp.": 1221,
@@ -17751,7 +17842,8 @@
     "Pytanie [UA]": "Якої маси не може перевищувати фактична повна маса причепа, який буксирує легковий автомобіль?",
     "Odpowiedź A [UA]": "Спорядженої маси автомобіля.",
     "Odpowiedź B [UA]": "Фактичної повної маси автомобіля.",
-    "Odpowiedź C [UA]": "Фактичної повної маси автомобіля, зменшеної на 40%."
+    "Odpowiedź C [UA]": "Фактичної повної маси автомобіля, зменшеної на 40%.",
+    "Media": ""
   },
   {
     "Lp.": 1222,
@@ -17773,7 +17865,8 @@
     "Pytanie [UA]": "На яких із цих доріг заборонено буксирувати інший транспортний засіб своїм легковим автомобілем?",
     "Odpowiedź A [UA]": "На автомагістралі (А).",
     "Odpowiedź B [UA]": "На швидкісній дорозі (S).",
-    "Odpowiedź C [UA]": "В житловій зоні."
+    "Odpowiedź C [UA]": "В житловій зоні.",
+    "Media": ""
   },
   {
     "Lp.": 1223,
@@ -17818,7 +17911,8 @@
     "Pytanie [UA]": "За яких дорожніх умов дозволено використовувати ланцюги протиковзання?",
     "Odpowiedź A [UA]": "Коли Ви керуєте транспортним засобом у період з початку грудня до кінця лютого, незалежно від того, чи вкрита дорога снігом.",
     "Odpowiedź B [UA]": "При температурі повітря нижче 0 градусів за Цельсієм, незалежно від того, чи засніжена дорога.",
-    "Odpowiedź C [UA]": "Коли дорога вкрита снігом."
+    "Odpowiedź C [UA]": "Коли дорога вкрита снігом.",
+    "Media": ""
   },
   {
     "Lp.": 1225,
@@ -17874,7 +17968,8 @@
     "Pytanie [UA]": "За яких умов гальмівний шлях є найдовшим?",
     "Odpowiedź A [UA]": "На сухій дорозі.",
     "Odpowiedź B [UA]": "На мокрій дорозі.",
-    "Odpowiedź C [UA]": "На обледенілій дорозі."
+    "Odpowiedź C [UA]": "На обледенілій дорозі.",
+    "Media": ""
   },
   {
     "Lp.": 1228,
@@ -17907,7 +18002,8 @@
     "Pytanie [UA]": "Яку функцію в транспортному засобі виконує антиблокувальна система гальм ABS?",
     "Odpowiedź A [UA]": "Запобігає пробуксовці коліс при рушанні з місця.",
     "Odpowiedź B [UA]": "Дозволяє зберегти контроль над автомобілем під час раптового гальмування.",
-    "Odpowiedź C [UA]": "Завжди скорочує гальмівний шлях."
+    "Odpowiedź C [UA]": "Завжди скорочує гальмівний шлях.",
+    "Media": ""
   },
   {
     "Lp.": 1230,
@@ -17928,7 +18024,8 @@
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Are you obliged to secure the vehicle parked on a hill against rolling down?",
     "Pytanie [DE]": "Sind Sie dazu verpflichtet, ein auf einem Hügel geparktes Fahrzeug vor dem Abrollen abzusichern?",
-    "Pytanie [UA]": "Чи зобов'язані Ви так забезпечити (заблокувати) запаркований на пагорбі автомобіль щоб він не скотився з нього?"
+    "Pytanie [UA]": "Чи зобов'язані Ви так забезпечити (заблокувати) запаркований на пагорбі автомобіль щоб він не скотився з нього?",
+    "Media": ""
   },
   {
     "Lp.": 1232,
@@ -18020,7 +18117,8 @@
     "Pytanie [UA]": "Яким чином Ви зобов'язані маркувати легковий автомобіль, що буксирується?",
     "Odpowiedź A [UA]": "Увімкнути ліхтарі аварійної сигналізації.",
     "Odpowiedź B [UA]": "Розмістити ззаду з лівої сторони попереджувальний світловідбиваючий трикутник.",
-    "Odpowiedź C [UA]": "Увімкнути задні протитуманні ліхтарі."
+    "Odpowiedź C [UA]": "Увімкнути задні протитуманні ліхтарі.",
+    "Media": ""
   },
   {
     "Lp.": 1239,
@@ -18042,7 +18140,8 @@
     "Pytanie [UA]": "Чи зобов'язані Ви, як власник транспортного засобу, на вимогу уповноваженого органу повідомляти, кому Ви довірили керування або використання транспортного засобу протягом часу, який цікавить цей уповноважений орган?",
     "Odpowiedź A [UA]": "Так, якщо це не службовий транспортний засіб.",
     "Odpowiedź B [UA]": "Так, якщо тільки транспортний засіб не був використаний проти Вашої волі та відома невідомою особою, чому Ви не могли запобігти.",
-    "Odpowiedź C [UA]": "У Вас немає такого обов'язку."
+    "Odpowiedź C [UA]": "У Вас немає такого обов'язку.",
+    "Media": ""
   },
   {
     "Lp.": 1240,
@@ -18064,7 +18163,8 @@
     "Pytanie [UA]": "Чи дозволяється Вам керувати транспортним засобом, номерний знак якого не видно?",
     "Odpowiedź A [UA]": "Так, без будь-яких обмежень.",
     "Odpowiedź B [UA]": "Так, коли номерний знак закриває виступаючий ззаду вантаж.",
-    "Odpowiedź C [UA]": "Ні, це заборонено."
+    "Odpowiedź C [UA]": "Ні, це заборонено.",
+    "Media": ""
   },
   {
     "Lp.": 1241,
@@ -18086,7 +18186,8 @@
     "Pytanie [UA]": "Чи можете Ви наклеїти на свій транспортний засіб знак, що вказує на іншу країну, ніж та, в якій транспортний засіб зареєстрований?",
     "Odpowiedź A [UA]": "Так, без будь-яких обмежень.",
     "Odpowiedź B [UA]": "Так, але за умови, що транспортний засіб має номерний знак із маркуванням «PL».",
-    "Odpowiedź C [UA]": "Ні, це заборонено."
+    "Odpowiedź C [UA]": "Ні, це заборонено.",
+    "Media": ""
   },
   {
     "Lp.": 1242,
@@ -18131,7 +18232,8 @@
     "Pytanie [UA]": "Що потрібно перевірити, якщо покажчик повороту починає блимати набагато швидше ніж завжди?",
     "Odpowiedź A [UA]": "Напругу акумулятора.",
     "Odpowiedź B [UA]": "Стан запобіжників.",
-    "Odpowiedź C [UA]": "Стан лампочок покажчиків повороту."
+    "Odpowiedź C [UA]": "Стан лампочок покажчиків повороту.",
+    "Media": ""
   },
   {
     "Lp.": 1244,
@@ -18153,7 +18255,8 @@
     "Pytanie [UA]": "Коли потрібно перевіряти рівень моторного масла?",
     "Odpowiedź A [UA]": "Коли двигун працює.",
     "Odpowiedź B [UA]": "Відразу після зупинки двигуна.",
-    "Odpowiedź C [UA]": "Перед запуском холодного двигуна або принаймні через кілька хвилин після його вимкнення."
+    "Odpowiedź C [UA]": "Перед запуском холодного двигуна або принаймні через кілька хвилин після його вимкнення.",
+    "Media": ""
   },
   {
     "Lp.": 1245,
@@ -18288,7 +18391,8 @@
     "Pytanie [UA]": "З якої передачі краще почати рух легкового автомобіля по сухому асфальту?",
     "Odpowiedź A [UA]": "З другої.",
     "Odpowiedź B [UA]": "З першої.",
-    "Odpowiedź C [UA]": "З тої, на якій рух було закінчено."
+    "Odpowiedź C [UA]": "З тої, на якій рух було закінчено.",
+    "Media": ""
   },
   {
     "Lp.": 1256,
@@ -19234,7 +19338,8 @@
     "Kategorie": ["B"],
     "Pytanie [ENG]": "Is it permitted on a one-way road to overtake a rail vehicle from the left?",
     "Pytanie [DE]": "Ist es zulässig, auf einer Einbahnstraße das Schienenfahrzeug an seiner linken Seite zu überholen?",
-    "Pytanie [UA]": "Чи можна на дорозі з одностороннім рухом обганяти рейковий транспортний засіб з лівого боку?"
+    "Pytanie [UA]": "Чи можна на дорозі з одностороннім рухом обганяти рейковий транспортний засіб з лівого боку?",
+    "Media": ""
   },
   {
     "Lp.": 1335,
@@ -20740,7 +20845,8 @@
     "Pytanie [UA]": "Які, з наведених нижче факторів, що залежать від водія, мають суттєвий вплив на гостроту зору водія?",
     "Odpowiedź A [UA]": "Температура і вологість повітря.",
     "Odpowiedź B [UA]": "Стан дорожнього покриття, час дня і ночі.",
-    "Odpowiedź C [UA]": "Концентрація уваги, його самопочуття і стан здоров'я."
+    "Odpowiedź C [UA]": "Концентрація уваги, його самопочуття і стан здоров'я.",
+    "Media": ""
   },
   {
     "Lp.": 1449,
@@ -20762,7 +20868,8 @@
     "Pytanie [UA]": "Як швидкість руху впливає на поле зору водія?",
     "Odpowiedź A [UA]": "Зі збільшенням швидкості поле зору звужується.",
     "Odpowiedź B [UA]": "Зі збільшенням швидкості поле зору розширюється.",
-    "Odpowiedź C [UA]": "Швидкість руху не впливає на поле зору водія."
+    "Odpowiedź C [UA]": "Швидкість руху не впливає на поле зору водія.",
+    "Media": ""
   },
   {
     "Lp.": 1450,
@@ -20784,7 +20891,8 @@
     "Pytanie [UA]": "Експлуатація транспортного засобу у спосіб, що спричиняє надмірні викиди в навколишнє середовище або надмірний шум:",
     "Odpowiedź A [UA]": "заборонена в населених пунктах.",
     "Odpowiedź B [UA]": "заборонена.",
-    "Odpowiedź C [UA]": "заборонена тільки в житловій зоні."
+    "Odpowiedź C [UA]": "заборонена тільки в житловій зоні.",
+    "Media": ""
   },
   {
     "Lp.": 1451,
@@ -20806,7 +20914,8 @@
     "Pytanie [UA]": "З якою, з наведених небезпечних дорожніх ситуацій найкраще впорається автомобіль, обладнаний так званою ASR - системою, що запобігає пробуксовці ведучих коліс при рушанні з місця?",
     "Odpowiedź A [UA]": "Під час спуску з гори.",
     "Odpowiedź B [UA]": "Під час руху з гори по дорозі з інтенсивним рухом.",
-    "Odpowiedź C [UA]": "У разі різкого прискорення на мокрій поверхні."
+    "Odpowiedź C [UA]": "У разі різкого прискорення на мокрій поверхні.",
+    "Media": ""
   },
   {
     "Lp.": 1452,
@@ -20828,7 +20937,8 @@
     "Pytanie [UA]": "З якою, з наведених небезпечних дорожніх ситуацій, найкраще впорається автомобіль, обладнаний так званою ASR - системою, що запобігає пробуксовці ведених коліс при рушанні з місця?",
     "Odpowiedź A [UA]": "Під час руху з гори по дорозі з інтенсивним рухом.",
     "Odpowiedź B [UA]": "Коли потрібно піднятися на гору.",
-    "Odpowiedź C [UA]": "У разі раптового старту на слизькій поверхні."
+    "Odpowiedź C [UA]": "У разі раптового старту на слизькій поверхні.",
+    "Media": ""
   },
   {
     "Lp.": 1453,
@@ -20850,7 +20960,8 @@
     "Pytanie [UA]": "З якою, з наведених небезпечних дорожніх ситуацій, найкраще впорається автомобіль, обладнаний так званою ESP-системою, тобто електронною системою курсової стійкості?",
     "Odpowiedź A [UA]": "Під час різкого повороту та труднощів з дотриманням очікуваної траєкторії руху.",
     "Odpowiedź B [UA]": "Коли потрібно різко прискоритися на ґрунтовій дорозі.",
-    "Odpowiedź C [UA]": "Коли потрібно підтримувати постійну швидкість."
+    "Odpowiedź C [UA]": "Коли потрібно підтримувати постійну швидкість.",
+    "Media": ""
   },
   {
     "Lp.": 1454,
@@ -20872,7 +20983,8 @@
     "Pytanie [UA]": "З якою, з наведених небезпечних дорожніх ситуацій, найкраще впорається автомобіль, обладнаний так званою ESP-системою, тобто електронною системою курсової стійкості?",
     "Odpowiedź A [UA]": "Коли потрібно підтримувати постійну швидкість.",
     "Odpowiedź B [UA]": "Коли потрібно піднятися на гору.",
-    "Odpowiedź C [UA]": "Коли потрібно подолати кілька поворотів дороги підряд."
+    "Odpowiedź C [UA]": "Коли потрібно подолати кілька поворотів дороги підряд.",
+    "Media": ""
   },
   {
     "Lp.": 1455,
@@ -22965,7 +23077,8 @@
     "Pytanie [UA]": "Чи допускається буксирування транспортного засобу з несправною рульовою системою за допомогою жорсткої зчіпки?",
     "Odpowiedź A [UA]": "Ні.",
     "Odpowiedź B [UA]": "Так, але тільки поза населеними пунктами.",
-    "Odpowiedź C [UA]": "Так, але тільки в населених пунктах."
+    "Odpowiedź C [UA]": "Так, але тільки в населених пунктах.",
+    "Media": ""
   },
   {
     "Lp.": 1587,
@@ -23459,7 +23572,8 @@
     "Pytanie [UA]": "Чи під час буксирування мотоцикла його обидві гальмівні системи повинні працювати?",
     "Odpowiedź A [UA]": "Так, але тільки, якщо швидкість перевищує 20 км/год.",
     "Odpowiedź B [UA]": "Так.",
-    "Odpowiedź C [UA]": "Ні, однієї достатньо."
+    "Odpowiedź C [UA]": "Ні, однієї достатньо.",
+    "Media": ""
   },
   {
     "Lp.": 1609,
@@ -25588,11 +25702,25 @@
     "Numer pytania": 10805,
     "Pytanie": "Czy masz obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego?",
     "Poprawna odp": "Tak",
-    "Kategorie": ["A", "B", "C", "D", "T", "AM", "PT", "A1", "A2", "B1", "C1", "D1"],
+    "Kategorie": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "PT",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
     "Nazwa media tłumaczenie migowe (PJM) treść pyt": "pjm10805.mp4",
     "Pytanie [ENG]": "Are you obliged to follow instructions or signs given by the pilot of the overnormative vehicle?",
     "Pytanie [DE]": "Sollen Sie die Anweisungen bzw. Signale des Pilots eines übernormativen Fahrzeugs befolgen?",
-    "Pytanie [UA]": "Чи зобов'язані Ви виконувати команди або сигнали спеціального автомобіля супроводу, який супроводжує нестандартний транспортний засіб або колону таких засобів?"
+    "Pytanie [UA]": "Чи зобов'язані Ви виконувати команди або сигнали спеціального автомобіля супроводу, який супроводжує нестандартний транспортний засіб або колону таких засобів?",
+    "Media": ""
   },
   {
     "Lp.": 1786,
@@ -25614,7 +25742,8 @@
     "Pytanie [UA]": "Перевезення дитини в дитячому автокріслі обличчям проти ходу руху на передньому сидінні автомобіля, обладнаного подушкою безпеки пасажира :",
     "Odpowiedź A [UA]": "дозволяється без обмежень.",
     "Odpowiedź B [UA]": "забороняється.",
-    "Odpowiedź C [UA]": "дозволяється, якщо подушка безпеки для переднього пасажирського сидіння відключена  підчас перевезення дитини."
+    "Odpowiedź C [UA]": "дозволяється, якщо подушка безпеки для переднього пасажирського сидіння відключена  підчас перевезення дитини.",
+    "Media": ""
   },
   {
     "Lp.": 1787,
@@ -25636,7 +25765,8 @@
     "Pytanie [UA]": "Дитячі автокрісла та інші дитячі утримуючі пристрої у транспортному засобі мають бути встановлені:",
     "Odpowiedź A [UA]": "таким чином, щоб це було безпечно та естетично привабливо.",
     "Odpowiedź B [UA]": "таким чином, щоб забезпечити легкий доступ до дитини.",
-    "Odpowiedź C [UA]": "відповідно до рекомендацій виробника автокрісла чи утримуючого пристрою."
+    "Odpowiedź C [UA]": "відповідно до рекомендацій виробника автокрісла чи утримуючого пристрою.",
+    "Media": ""
   },
   {
     "Lp.": 1788,
@@ -25658,7 +25788,8 @@
     "Pytanie [UA]": "Поліцейський вилучить водійське посвідчення під розписку, у разі вчинення водієм правопорушення, яке полягає у:",
     "Odpowiedź A [UA]": "керуванні транспортним засобом зі швидкістю, що на 50 км/год. перевищує дозволену швидкість у населеному пункті (позначеному дорожніми знаками з назвою пункту на білому тлі).",
     "Odpowiedź B [UA]": "керуванні транспортним засобом зі швидкістю, що  більше ніж на 50 км/год. перевищує дозволену швидкість у населеному пункті (позначеному дорожніми знаками з назвою пункту на білому тлі).",
-    "Odpowiedź C [UA]": "керуванні транспортним засобом зі швидкістю, що на 50 км/год. перевищує дозволену швидкість за межами населеного пункту (позначеному дорожніми знаками з назвою пункту на білому тлі)."
+    "Odpowiedź C [UA]": "керуванні транспортним засобом зі швидкістю, що на 50 км/год. перевищує дозволену швидкість за межами населеного пункту (позначеному дорожніми знаками з назвою пункту на білому тлі).",
+    "Media": ""
   },
   {
     "Lp.": 1789,
@@ -25680,7 +25811,8 @@
     "Pytanie [UA]": "Староста приймає адміністративне рішення про тимчасове вилучення водійського посвідчення, якщо водій перевищив дозволену швидкість руху:",
     "Odpowiedź A [UA]": "більше ніж на 50 км/год. у населеному пункті (позначеному дорожніми знаками з назвою пункту на білому тлі).",
     "Odpowiedź B [UA]": "на 50 км/год. у населеному пункті (позначеному дорожніми знаками з назвою пункту на білому тлі)",
-    "Odpowiedź C [UA]": "на 50 км/год. за межами населеного пункту (позначеному дорожніми знаками з назвою пункту на білому тлі)."
+    "Odpowiedź C [UA]": "на 50 км/год. за межами населеного пункту (позначеному дорожніми знаками з назвою пункту на білому тлі).",
+    "Media": ""
   },
   {
     "Lp.": 1790,
@@ -25702,7 +25834,8 @@
     "Pytanie [UA]": "Якщо водій перевищив дозволену швидкість руху у населеному пункті (позначеному дорожніми знаками з назвою пункту на білому тлі) більш ніж на 50 км/год., староста виносить адміністративне рішення про тимчасове вилучення водійського посвідчення на строк:",
     "Odpowiedź A [UA]": "1 місяця.",
     "Odpowiedź B [UA]": "2 місяців.",
-    "Odpowiedź C [UA]": "3 місяців."
+    "Odpowiedź C [UA]": "3 місяців.",
+    "Media": ""
   },
   {
     "Lp.": 1791,
@@ -25724,7 +25857,8 @@
     "Pytanie [UA]": "Документом, який підтверджує, що транспортний засіб був допущений до руху, є:",
     "Odpowiedź A [UA]": "свідоцтво про реєстрацію транспортного засобу.",
     "Odpowiedź B [UA]": "облікова картка транспортного засобу.",
-    "Odpowiedź C [UA]": "контрольна наклейка на лобовому склі."
+    "Odpowiedź C [UA]": "контрольна наклейка на лобовому склі.",
+    "Media": ""
   },
   {
     "Lp.": 1792,
@@ -25746,7 +25880,8 @@
     "Pytanie [UA]": "Як перевозити дитину зростом менше 150 см на передньому сидінні п'ятимісного легкового автомобіля?",
     "Odpowiedź A [UA]": "На колінах у пасажира.",
     "Odpowiedź B [UA]": "У дитячому автокріслі або іншому дитячому утримуючому пристрої.",
-    "Odpowiedź C [UA]": "У дитячому автокріслі, повернутому проти руху автомобіля, якщо в транспортному засобі є активна подушка безпеки пасажира."
+    "Odpowiedź C [UA]": "У дитячому автокріслі, повернутому проти руху автомобіля, якщо в транспортному засобі є активна подушка безпеки пасажира.",
+    "Media": ""
   },
   {
     "Lp.": 1793,
@@ -25768,7 +25903,8 @@
     "Pytanie [UA]": "Як перевозити дитину зростом менше 150 см в п'ятимісному легковому автомобілі?",
     "Odpowiedź A [UA]": "На передньому сидінні без дитячого автокрісла чи іншого дитячого утримуючого пристрою.",
     "Odpowiedź B [UA]": "На передньому сидінні в дитячому утримуючому пристрої, відмінному від дитячого автокрісла.",
-    "Odpowiedź C [UA]": "На задньому сидінні без застібнутого ременя безпеки."
+    "Odpowiedź C [UA]": "На задньому сидінні без застібнутого ременя безпеки.",
+    "Media": ""
   },
   {
     "Lp.": 1794,
@@ -25790,7 +25926,8 @@
     "Pytanie [UA]": "Як Ви встановите дитяче автокрісло у Вашому автомобілі?",
     "Odpowiedź A [UA]": "У зручний для дитини спосіб.",
     "Odpowiedź B [UA]": "У зручний для себе спосіб.",
-    "Odpowiedź C [UA]": "Відповідно до рекомендацій виробника автокрісла."
+    "Odpowiedź C [UA]": "Відповідно до рекомендацій виробника автокрісла.",
+    "Media": ""
   },
   {
     "Lp.": 1795,
@@ -25812,7 +25949,8 @@
     "Pytanie [UA]": "Як Ви встановите в транспортному засобі утримуючий пристрій для перевезення дитини?",
     "Odpowiedź A [UA]": "Так, як бажає дитина.",
     "Odpowiedź B [UA]": "У зручний для себе спосіб.",
-    "Odpowiedź C [UA]": "Відповідно до рекомендацій виробника пристрою."
+    "Odpowiedź C [UA]": "Відповідно до рекомендацій виробника пристрою.",
+    "Media": ""
   },
   {
     "Lp.": 1796,
@@ -25834,7 +25972,8 @@
     "Pytanie [UA]": "Яким умовам має відповідати легковий автомобіль, в якому Ви хочете перевозити дитину віком до трьох років?",
     "Odpowiedź A [UA]": "Він повинен бути оснащений ременями безпеки та дитячим автокріслом.",
     "Odpowiedź B [UA]": "Може не мати ременів безпеки.",
-    "Odpowiedź C [UA]": "Його не обов'язково оснащувати ременями безпеки та безпечним дитячим автокріслом ."
+    "Odpowiedź C [UA]": "Його не обов'язково оснащувати ременями безпеки та безпечним дитячим автокріслом .",
+    "Media": ""
   },
   {
     "Lp.": 1797,
@@ -25856,7 +25995,8 @@
     "Pytanie [UA]": "На що слід звернути увагу при виборі дитячого автокрісла або утримуючого пристрою для перевезення дитини?",
     "Odpowiedź A [UA]": "На зовнішній вигляд.",
     "Odpowiedź B [UA]": "На відповідні технічні параметри цих безпечних сидінь для дітей.",
-    "Odpowiedź C [UA]": "Перш за все, на зручність."
+    "Odpowiedź C [UA]": "Перш за все, на зручність.",
+    "Media": ""
   },
   {
     "Lp.": 1798,
@@ -25878,7 +26018,8 @@
     "Pytanie [UA]": "Які умови повинні бути дотримані при перевезенні дитини на задньому сидінні легкового автомобіля?",
     "Odpowiedź A [UA]": "Дитина, яка перевозиться, повинна мати зріст не менше 135 см, бути пристебнута лише ременями безпеки, оскільки її вага та зріст унеможливлюють перевезення в автокріслі чи іншому дитячому утримувальному пристрої.",
     "Odpowiedź B [UA]": "Дитина, що перевозиться, повинна мати зріст не менше 125 см і бути пристебнута лише ременями безпеки, оскільки її вага та зріст унеможливлюють перевезення в автокріслі.",
-    "Odpowiedź C [UA]": "Не можна перевищувати швидкість 50 км/год."
+    "Odpowiedź C [UA]": "Не можна перевищувати швидкість 50 км/год.",
+    "Media": ""
   },
   {
     "Lp.": 1799,
@@ -25900,7 +26041,8 @@
     "Pytanie [UA]": "Які умови повинні бути дотримані, якщо Ви хочете перевозити дитину на задньому сидінні легкового автомобіля?",
     "Odpowiedź A [UA]": "Дитина, що перевозиться, повинна мати зріст не менше 125 см і бути пристебнута лише ременями безпеки, оскільки її вага та зріст унеможливлюють перевезення в автокріслі.",
     "Odpowiedź B [UA]": "Не можна перевищувати швидкість 40 км/год.",
-    "Odpowiedź C [UA]": "Дитина, яка перевозиться, повинна мати зріст не менше 135 см, бути пристебнута лише ременями безпеки, оскільки її вага та зріст унеможливлюють перевезення в автокріслі чи іншому дитячому утримувальному пристрої."
+    "Odpowiedź C [UA]": "Дитина, яка перевозиться, повинна мати зріст не менше 135 см, бути пристебнута лише ременями безпеки, оскільки її вага та зріст унеможливлюють перевезення в автокріслі чи іншому дитячому утримувальному пристрої.",
+    "Media": ""
   },
   {
     "Lp.": 1800,
@@ -25922,7 +26064,8 @@
     "Pytanie [UA]": "Що потрібно зробити, якщо Ви хочете перевезти трирічну дитину на задньому сидінні легкового автомобіля, в якому двоє дітей вже сидять в автокріслах і немає можливості встановити третє автокрісло?",
     "Odpowiedź A [UA]": "Ви повинні пристебнути дитину ременем безпеки.",
     "Odpowiedź B [UA]": "Ви повинні посадити дитину на коліна у дорослого.",
-    "Odpowiedź C [UA]": "Ви повинні замкнути задні двері, запобігаючи їх відкриванню ззовні."
+    "Odpowiedź C [UA]": "Ви повинні замкнути задні двері, запобігаючи їх відкриванню ззовні.",
+    "Media": ""
   },
   {
     "Lp.": 1801,
@@ -25944,7 +26087,8 @@
     "Pytanie [UA]": "Що потрібно зробити, якщо Ви хочете перевезти трирічну дитину на задньому сидінні легкового автомобіля, в якому двоє дітей вже сидять в дитячих утримуючих пристроях і немає можливості встановити третій пристрій?",
     "Odpowiedź A [UA]": "Слід забезпечити дитині підставку для ніг.",
     "Odpowiedź B [UA]": "Ви повинні пристебнути дитину ременем безпеки.",
-    "Odpowiedź C [UA]": "Ви повинні посадити дитину на середину заднього сидіння."
+    "Odpowiedź C [UA]": "Ви повинні посадити дитину на середину заднього сидіння.",
+    "Media": ""
   },
   {
     "Lp.": 1802,
@@ -25966,7 +26110,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Підтвердження оплати обов'язкового страхування цивільно-правової відповідальності (ОС).",
     "Odpowiedź B [UA]": "Розписку про затримання (вилучення) органом контролі руху свідоцтва про реєстрацію транспортного засобу. Розписку слід мати при собі впродовж терміну, протягом якого розписка дає право на користування транспортним засобом.",
-    "Odpowiedź C [UA]": "У кожному випадку довідку про проходження техогляду."
+    "Odpowiedź C [UA]": "У кожному випадку довідку про проходження техогляду.",
+    "Media": ""
   },
   {
     "Lp.": 1803,
@@ -25988,7 +26133,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Підтвердження оплати страхового полісу АС.",
     "Odpowiedź B [UA]": "Розписку про затримання (вилучення) органом контролі руху свідоцтва про реєстрацію транспортного засобу. Розписку слід мати при собі впродовж терміну, протягом якого розписка дає право на користування транспортним засобом.",
-    "Odpowiedź C [UA]": "Довідку про проходження техогляду, якщо автомобіль працює на газі."
+    "Odpowiedź C [UA]": "Довідку про проходження техогляду, якщо автомобіль працює на газі.",
+    "Media": ""
   },
   {
     "Lp.": 1804,
@@ -26010,7 +26156,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Свідоцтво про реєстрацію транспортного засобу.",
     "Odpowiedź B [UA]": "Розписку про затримання (вилучення) органом контролі руху свідоцтва про реєстрацію транспортного засобу. Розписку слід мати при собі впродовж терміну, протягом якого розписка дає право на користування транспортним засобом.",
-    "Odpowiedź C [UA]": "Сертифікат відповідності технічним умовам."
+    "Odpowiedź C [UA]": "Сертифікат відповідності технічним умовам.",
+    "Media": ""
   },
   {
     "Lp.": 1805,
@@ -26032,7 +26179,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Розписку про затримання (вилучення) органом контролі руху свідоцтва про реєстрацію транспортного засобу. Розписку слід мати при собі впродовж терміну, протягом якого розписка дає право на користування транспортним засобом.",
     "Odpowiedź B [UA]": "Сертифікат відповідності ЄС.",
-    "Odpowiedź C [UA]": "Свідоцтво про реєстрацію транспортного засобу."
+    "Odpowiedź C [UA]": "Свідоцтво про реєстрацію транспортного засобу.",
+    "Media": ""
   },
   {
     "Lp.": 1806,
@@ -26054,7 +26202,8 @@
     "Pytanie [UA]": "Які документи Ви зобов'язані мати при собі і пред'являти на вимогу уповноваженого органу, коли на території Польщі керуєте транспортним засобом, який зареєстрований за кордоном?",
     "Odpowiedź A [UA]": "Документ допуску транспортного засобу до руху (свідоцтво про реєстрацію транспортного засобу).",
     "Odpowiedź B [UA]": "Документ, що підтверджує укладення договору страхування від нещасних випадків.",
-    "Odpowiedź C [UA]": "Копію довідки про проходження технічного огляду."
+    "Odpowiedź C [UA]": "Копію довідки про проходження технічного огляду.",
+    "Media": ""
   },
   {
     "Lp.": 1807,
@@ -26076,7 +26225,8 @@
     "Pytanie [UA]": "Які документи Ви зобов'язані мати при собі і пред'являти на вимогу уповноваженого органу, коли на території Польщі керуєте транспортним засобом, який зареєстрований за кордоном?",
     "Odpowiedź A [UA]": "Документ права власності на транспортний засіб.",
     "Odpowiedź B [UA]": "Документ, що підтверджує укладення договору обов'язкового страхування цивільно-правової відповідальності власника транспортного засобу (ОС).",
-    "Odpowiedź C [UA]": "Документ, що підтверджує оплату державного збору."
+    "Odpowiedź C [UA]": "Документ, що підтверджує оплату державного збору.",
+    "Media": ""
   },
   {
     "Lp.": 1808,
@@ -26098,7 +26248,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу, керуючи на території Республіки Польща транспортним засобом, зареєстрованим за кордоном?",
     "Odpowiedź A [UA]": "Професійне свідоцтва про реєстрацію транспортного засобу.",
     "Odpowiedź B [UA]": "Підтвердження оплати страхового внеску за обов'язкове страхування цивільно-правової відповідальності (ОС).",
-    "Odpowiedź C [UA]": "Документ, що підтверджує оплату за користування платними дорогами."
+    "Odpowiedź C [UA]": "Документ, що підтверджує оплату за користування платними дорогами.",
+    "Media": ""
   },
   {
     "Lp.": 1809,
@@ -26120,7 +26271,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Національне водійське посвідчення.",
     "Odpowiedź B [UA]": "Документ, що підтверджує право керувати транспортним засобом, інший ніж національне посвідчення водія.",
-    "Odpowiedź C [UA]": "Свідоцтво кваліфікації."
+    "Odpowiedź C [UA]": "Свідоцтво кваліфікації.",
+    "Media": ""
   },
   {
     "Lp.": 1810,
@@ -26142,7 +26294,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Медичну довідку, якщо Ви здійснюєте комерційні пасажирські перевезення.",
     "Odpowiedź B [UA]": "Розписку про затримання (вилучення) органом контролі посвідчення водія. Розписку слід мати при собі впродовж терміну, протягом якого розписка дає право керувати транспортними засобами.",
-    "Odpowiedź C [UA]": "Психологічний висновок."
+    "Odpowiedź C [UA]": "Психологічний висновок.",
+    "Media": ""
   },
   {
     "Lp.": 1811,
@@ -26164,7 +26317,8 @@
     "Pytanie [UA]": "Які документи Ви зобов’язані мати при собі та пред’являти на вимогу уповноваженого органу під час дорожнього контролю?",
     "Odpowiedź A [UA]": "Психологічний висновок, якщо Ви здійснюєте комерційні пасажирські перевезення.",
     "Odpowiedź B [UA]": "Розписку про затримання (вилучення) органом контролі посвідчення водія. Розписку слід мати при собі впродовж терміну, протягом якого розписка дає право керувати транспортними засобами.",
-    "Odpowiedź C [UA]": "Медичний звіт."
+    "Odpowiedź C [UA]": "Медичний звіт.",
+    "Media": ""
   },
   {
     "Lp.": 1812,
@@ -26186,7 +26340,8 @@
     "Pytanie [UA]": "Який документ Ви зобов'язані мати при собі та надати на вимогу уповноваженого органу?",
     "Odpowiedź A [UA]": "Документ, що підтверджує участь у курсі вступної кваліфікації.",
     "Odpowiedź B [UA]": "Документ, що підтверджує право керувати транспортним засобом, інший ніж національне посвідчення водія.",
-    "Odpowiedź C [UA]": "Документ, що підтверджує проходження курсу першої медичної допомоги."
+    "Odpowiedź C [UA]": "Документ, що підтверджує проходження курсу першої медичної допомоги.",
+    "Media": ""
   },
   {
     "Lp.": 1813,
@@ -26208,7 +26363,8 @@
     "Pytanie [UA]": "За яке порушення правил дорожнього руху поліцейський може забрати у Вас водійське посвідчення?",
     "Odpowiedź A [UA]": "За обминання (об’їзд) транспортного засобу з порушенням подвійної суцільної лінії.",
     "Odpowiedź B [UA]": "За керування транспортним засобом зі швидкістю, що перевищує дозволену швидкість, більше ніж на 50 км/год поза населеним пунктом.",
-    "Odpowiedź C [UA]": "За керування транспортним засобом зі швидкістю, що перевищує дозволену швидкість більше ніж на 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\"."
+    "Odpowiedź C [UA]": "За керування транспортним засобом зі швидкістю, що перевищує дозволену швидкість більше ніж на 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\".",
+    "Media": ""
   },
   {
     "Lp.": 1814,
@@ -26230,7 +26386,8 @@
     "Pytanie [UA]": "За яке порушення правил дорожнього руху поліцейський може забрати у Вас водійське посвідчення?",
     "Odpowiedź A [UA]": "За обгін з порушенням суцільної лінії.",
     "Odpowiedź B [UA]": "За перевезення двох осіб понад кількість місць, зазначених в свідоцтві про реєстрацію легкового автомобіля.",
-    "Odpowiedź C [UA]": "За зустрічний роз'їзд на залізничному переїзді."
+    "Odpowiedź C [UA]": "За зустрічний роз'їзд на залізничному переїзді.",
+    "Media": ""
   },
   {
     "Lp.": 1815,
@@ -26252,7 +26409,8 @@
     "Pytanie [UA]": "За яке порушення правил дорожнього руху поліцейський може забрати у Вас водійське посвідчення?",
     "Odpowiedź A [UA]": "За обгін перед пішохідним переходом, на якому рух регулюється.",
     "Odpowiedź B [UA]": "За перевезення пасажирів, кількість яких на 2 особи перевищує кількість місць для сидіння, вказану в тимчасовому свідоцтві про реєстрацію легкового автомобіля.",
-    "Odpowiedź C [UA]": "За зустрічний роз'їзд на велосипедному переїзді."
+    "Odpowiedź C [UA]": "За зустрічний роз'їзд на велосипедному переїзді.",
+    "Media": ""
   },
   {
     "Lp.": 1816,
@@ -26274,7 +26432,8 @@
     "Pytanie [UA]": "Як довго діє розписка, яку Вам видав поліцейський, про затримання (вилучення) польського водійського посвідчення за перевищення швидкості понад 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\"?",
     "Odpowiedź A [UA]": "12 годин.",
     "Odpowiedź B [UA]": "24 години.",
-    "Odpowiedź C [UA]": "72 години."
+    "Odpowiedź C [UA]": "72 години.",
+    "Media": ""
   },
   {
     "Lp.": 1817,
@@ -26296,7 +26455,8 @@
     "Pytanie [UA]": "Як довго діє розписка про затримання (вилучення) польського водійського посвідчення за перевезення двох осіб понад кількість місць, зазначену в свідоцтві про реєстрацію легкового автомобіля?",
     "Odpowiedź A [UA]": "12 годин.",
     "Odpowiedź B [UA]": "24 години.",
-    "Odpowiedź C [UA]": "72 години."
+    "Odpowiedź C [UA]": "72 години.",
+    "Media": ""
   },
   {
     "Lp.": 1818,
@@ -26318,7 +26478,8 @@
     "Pytanie [UA]": "На який термін староста продовжить термін позбавлення Вас водійського посвідчення, якщо Вас зупинили для контролю під час керування транспортним засобом без водійського посвідчення, тому що Ваше водійське посвідчення було затримане (вилучене) на три місяці за перевищення швидкості більш ніж на 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\"?",
     "Odpowiedź A [UA]": "Ще на місяць.",
     "Odpowiedź B [UA]": "Ще на два місяці.",
-    "Odpowiedź C [UA]": "Ще на три місяці."
+    "Odpowiedź C [UA]": "Ще на три місяці.",
+    "Media": ""
   },
   {
     "Lp.": 1819,
@@ -26340,7 +26501,8 @@
     "Pytanie [UA]": "Яке рішення прийме староста, якщо Вас зупинили для контролю і виявилося, що Ви керуєте автомобілем без водійського посвідчення, тому, що Вам його спочатку забрали на 3 місяці за перевищення швидкості більш ніж на 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\", а потім продовжили термін позбавлення Вас водійського посвідчення ще на 3 місяці, тому що піймали Вас на керуванні авто без водійського посвідчення?",
     "Odpowiedź A [UA]": "Продовжить термін позбавлення Вас водійського посвідчення ще на три місяці.",
     "Odpowiedź B [UA]": "Продовжить термін позбавлення Вас водійського посвідчення ще на чотири місяці.",
-    "Odpowiedź C [UA]": "Позбавить Вас водійських прав."
+    "Odpowiedź C [UA]": "Позбавить Вас водійських прав.",
+    "Media": ""
   },
   {
     "Lp.": 1820,
@@ -26362,7 +26524,8 @@
     "Pytanie [UA]": "Яке рішення прийме староста, якщо Вас зупинили для перевірки під час керування автомобілем без водійського посвідчення, незважаючи на продовження терміну позбавлення Вас водійських прав на шість місяців за перевезення двох осіб понад кількість місць, вказаних в свідоцтві про реєстрацію автомобіля?",
     "Odpowiedź A [UA]": "Продовжить термін позбавлення Вас водійського посвідчення ще на три місяці.",
     "Odpowiedź B [UA]": "Продовжить термін позбавлення Вас водійського посвідчення ще на чотири місяці.",
-    "Odpowiedź C [UA]": "Позбавить Вас водійських прав."
+    "Odpowiedź C [UA]": "Позбавить Вас водійських прав.",
+    "Media": ""
   },
   {
     "Lp.": 1821,
@@ -26384,7 +26547,8 @@
     "Pytanie [UA]": "Що робитиме поліцейський, якщо під час перевірки на дорозі виявить, що Ви перевищили швидкість більш ніж на 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\", але це було пов’язано з рятуванням людського життя?",
     "Odpowiedź A [UA]": "Він забере у Вас посвідчення водія.",
     "Odpowiedź B [UA]": "Він проведе інструктаж і направить Вас на контрольний іспит.",
-    "Odpowiedź C [UA]": "Він не буде позбавляти Вас водійського посвідчення."
+    "Odpowiedź C [UA]": "Він не буде позбавляти Вас водійського посвідчення.",
+    "Media": ""
   },
   {
     "Lp.": 1822,
@@ -26406,7 +26570,8 @@
     "Pytanie [UA]": "Що робитиме поліцейський, якщо під час перевірки на дорозі виявить, що Ви перевищили швидкість більш ніж на 50 км/год у зоні, обмеженій знаками \"початок забудови населеного пункту\" і \"кінець забудови населеного пункту\", але це було пов’язано з рятуванням людського життя?",
     "Odpowiedź A [UA]": "Він забере у Вас посвідчення водія.",
     "Odpowiedź B [UA]": "Направить Вас на додаткове навчання.",
-    "Odpowiedź C [UA]": "Він не буде позбавляти Вас водійського посвідчення."
+    "Odpowiedź C [UA]": "Він не буде позбавляти Вас водійського посвідчення.",
+    "Media": ""
   },
   {
     "Lp.": 1823,
@@ -26432,7 +26597,8 @@
     "Pytanie [UA]": "У якому випадку можна перевозити третю дитину, зріст якої не перевищує 135 см, на задньому сидінні легкового або вантажного автомобіля, пристебнувши її лише ременем безпеки?",
     "Odpowiedź A [UA]": "Якщо двоє дітей перевозяться в дитячих автокріслах і немає можливості встановити третє дитяче автокрісло, а третій дитині вже виповнилося 3 років.",
     "Odpowiedź B [UA]": "Тільки якщо зріст третьої дитини принаймні 100 см.",
-    "Odpowiedź C [UA]": "Тільки якщо третій дитині виповнилося 15 років."
+    "Odpowiedź C [UA]": "Тільки якщо третій дитині виповнилося 15 років.",
+    "Media": ""
   },
   {
     "Lp.": 1824,
@@ -26458,7 +26624,8 @@
     "Pytanie [UA]": "Коли дозволено перевозити дитину зростом менше 150 см на передньому сидінні вантажного автомобіля, пристебнуту тільки ременем безпеки?",
     "Odpowiedź A [UA]": "Якщо зріст дитини принаймні 135 см.",
     "Odpowiedź B [UA]": "Якщо в даному транспортному засобі немає можливості встановити дитяче автокрісло.",
-    "Odpowiedź C [UA]": "Якщо дитина має медичну довідку про протипоказання для перевезення у дитячому автокріслі."
+    "Odpowiedź C [UA]": "Якщо дитина має медичну довідку про протипоказання для перевезення у дитячому автокріслі.",
+    "Media": ""
   },
   {
     "Lp.": 1825,
@@ -26484,7 +26651,8 @@
     "Pytanie [UA]": "Який з перелічених  документів повинен мати при собі водій транспортного засобу, зареєстрованого на території Республіки Польща, і пред'явити його на вимогу уповноваженого органу?",
     "Odpowiedź A [UA]": "Підтвердження оплати обов'язкового страхування цивільно-правової відповідальності власника транспортного засобу.",
     "Odpowiedź B [UA]": "Свідоцтво про реєстрацію транспортного засобу.",
-    "Odpowiedź C [UA]": "Якщо водій має право керувати лише  транспортним засобом, обладнаним алкозамком, - довідку про позитивний результат технічного тесту алкозамка."
+    "Odpowiedź C [UA]": "Якщо водій має право керувати лише  транспортним засобом, обладнаним алкозамком, - довідку про позитивний результат технічного тесту алкозамка.",
+    "Media": ""
   },
   {
     "Lp.": 1826,
@@ -26510,7 +26678,8 @@
     "Pytanie [UA]": "Чи має право інспектор дорожнього транспорту перевіряти дані транспортного засобу в Центральному реєстрі транспортних засобів під час контролю транспортного засобу, що здійснює автомобільні перевезення?",
     "Odpowiedź A [UA]": "Так, він має таке ж право, як і поліція.",
     "Odpowiedź B [UA]": "Ні, таке право має тільки поліція.",
-    "Odpowiedź C [UA]": "Ні, тільки поліція, прикордонні служби, митні та фіскальні органи мають право перевіряти дані про транспортний засіб у Центральному реєстрі транспортних засобів."
+    "Odpowiedź C [UA]": "Ні, тільки поліція, прикордонні служби, митні та фіскальні органи мають право перевіряти дані про транспортний засіб у Центральному реєстрі транспортних засобів.",
+    "Media": ""
   },
   {
     "Lp.": 1827,
@@ -26536,7 +26705,8 @@
     "Pytanie [UA]": "Хто може повернути свідоцтво про реєстрацію транспортного засобу, яке було вилучено у водія під час контролю дорожнього руху у зв'язку із встановленням, що транспортний засіб становить загрозу безпеці дорожнього руху?",
     "Odpowiedź A [UA]": "Організаційна одиниця, уповноважена до проведення техогляду після проведення техогляду, що відповідає причині вилучення свідоцтва про реєстрацію.",
     "Odpowiedź B [UA]": "Муніципальна поліція.",
-    "Odpowiedź C [UA]": "Управляючий дорогою."
+    "Odpowiedź C [UA]": "Управляючий дорогою.",
+    "Media": ""
   },
   {
     "Lp.": 1828,
@@ -26562,7 +26732,8 @@
     "Pytanie [UA]": "На який термін вилучають права у водія, який перевищив швидкість більш ніж на 50 км/год. у населеному пункт (позначеному дорожніми знаками з назвою пункту на білому тлі)?",
     "Odpowiedź A [UA]": "На 3 місяці.",
     "Odpowiedź B [UA]": "На 6 місяців.",
-    "Odpowiedź C [UA]": "На 1 місяць."
+    "Odpowiedź C [UA]": "На 1 місяць.",
+    "Media": ""
   },
   {
     "Lp.": 1829,
@@ -26588,7 +26759,8 @@
     "Pytanie [UA]": "Протягом якого часу розписка про вилучення водійського посвідчення (тимчасовий дозвіл на керування транспортним засобом) за перевищення швидкості в населеному пункті більш ніж на 50 км/год. дозволяє водію  керувати  транспортним засобом?",
     "Odpowiedź A [UA]": "Протягом 24 годин з моменту вилучення посвідчення водія.",
     "Odpowiedź B [UA]": "Протягом 7 днів з моменту вилучення посвідчення водія.",
-    "Odpowiedź C [UA]": "протягом 72 годин з моменту вилучення посвідчення водія."
+    "Odpowiedź C [UA]": "протягом 72 годин з моменту вилучення посвідчення водія.",
+    "Media": ""
   },
   {
     "Lp.": 1830,
@@ -26614,7 +26786,8 @@
     "Pytanie [UA]": "У якому випадку не вилучають водійське посвідчення за перевищення швидкості більш ніж на 50 км/год. у населеному пункті (позначеному дорожніми знаками з назвою пункту на білому тлі)?",
     "Odpowiedź A [UA]": "Якщо водій вчинив правопорушення, діючи з метою відвернення безпосередньої небезпеки яка загрожує особі, її правам, а також інтересам, що охороняються законом",
     "Odpowiedź B [UA]": "Якщо водій іншого транспортного засобу, що рухався ззаду, за допомогою попереджувальних світлових та звукових сигналів подавав знаки про необхідність збільшення швидкості.",
-    "Odpowiedź C [UA]": "Якщо водій збільшив швидкість, щоб швидше виїхати з перехрестя на зелений сигнал світлофора."
+    "Odpowiedź C [UA]": "Якщо водій збільшив швидкість, щоб швидше виїхати з перехрестя на зелений сигнал світлофора.",
+    "Media": ""
   },
   {
     "Lp.": 1831,
@@ -26636,7 +26809,8 @@
     "Pytanie [UA]": "Ви хочете перевозити дитину на передньому сидінні автомобіля, який обладнано активною подушкою безпеки для пасажира, що сидить поряд з водієм. Як Ви можете це зробити?",
     "Odpowiedź A [UA]": "У безпечному дитячому автокріслі, повернутому проти напрямку руху автомобіля.",
     "Odpowiedź B [UA]": "У безпечному дитячому автокріслі, встановленому за напрямком руху авто (обличчям дитини в напрямку руху).",
-    "Odpowiedź C [UA]": "В іншому дитячому утримуючому пристрої, спрямованому проти напрямку руху автомобіля."
+    "Odpowiedź C [UA]": "В іншому дитячому утримуючому пристрої, спрямованому проти напрямку руху автомобіля.",
+    "Media": ""
   },
   {
     "Lp.": 1832,
@@ -27003,7 +27177,8 @@
     "Pytanie [UA]": "Яке покарання загрожує водієві, який перевозить у вантажівці на три особи більше, ніж зазначено в свідоцтві про реєстрацію транспортного засобу?",
     "Odpowiedź A [UA]": "Вилучення посвідчення водія на 3 місяці.",
     "Odpowiedź B [UA]": "Вилучення посвідчення водія на 3 місяці та контроль кваліфікації.",
-    "Odpowiedź C [UA]": "Вилучення посвідчення водія на 6 місяців."
+    "Odpowiedź C [UA]": "Вилучення посвідчення водія на 6 місяців.",
+    "Media": ""
   },
   {
     "Lp.": 1855,
@@ -27484,7 +27659,8 @@
     "Pytanie [UA]": "На якій дорозі водій зобов'язаний суворо дотримуватися визначеної мінімальної дистанції до автомобіля, що їде попереду?",
     "Odpowiedź A [UA]": "На швидкісній дорозі (S).",
     "Odpowiedź B [UA]": "На дорозі, що має 2 проїжджі частини і не менше двох смуг для кожного напрямку руху.",
-    "Odpowiedź C [UA]": "На дорозі з однією проїжджою частиною, поза населеним пунктом."
+    "Odpowiedź C [UA]": "На дорозі з однією проїжджою частиною, поза населеним пунктом.",
+    "Media": ""
   },
   {
     "Lp.": 1887,
@@ -27506,7 +27682,8 @@
     "Pytanie [UA]": "Яка максимально дозволена швидкість транспортного засобу з пристроєм, що виступає за його габарити спереду більше ніж на 1,5 м від сидіння водія?",
     "Odpowiedź A [UA]": "40 км/год у населених пунктах.",
     "Odpowiedź B [UA]": "60 км/год поза населеними пунктами.",
-    "Odpowiedź C [UA]": "30 км/год незалежно від території, по якій він рухається."
+    "Odpowiedź C [UA]": "30 км/год незалежно від території, по якій він рухається.",
+    "Media": ""
   },
   {
     "Lp.": 1888,
@@ -27551,7 +27728,8 @@
     "Pytanie [UA]": "З якою швидкістю можна їхати легковим автомобілем по автомагістралі (А)?",
     "Odpowiedź A [UA]": "Зі швидкістю, яка забезпечує контроль над транспортним засобом з урахуванням дорожніх умов і яка не перевищує 140 км/год.",
     "Odpowiedź B [UA]": "Зі швидкістю, яка враховує погодні умови, за яких відбувається рух (хуртовина, злива тощо), не меншою ніж 40 км/год.",
-    "Odpowiedź C [UA]": "З будь-якою, що забезпечує контроль над транспортним засобом."
+    "Odpowiedź C [UA]": "З будь-якою, що забезпечує контроль над транспортним засобом.",
+    "Media": ""
   },
   {
     "Lp.": 1890,
@@ -27619,14 +27797,15 @@
     "Pytanie [UA]": "Яке обмеження швидкості для квадроцикла (чотириколісного мікроавтомобіля) в межах забудови населеного пункту (тобто від знака \"початок забудови населеного пункта\" до знака \"кінець забудови населеного пункта\" ?",
     "Odpowiedź A [UA]": "50 км/год незалежно від його дозволеної максимальної маси.",
     "Odpowiedź B [UA]": "40 км/год, якщо його дозволена максимальна маса перевищує 3,5 т.",
-    "Odpowiedź C [UA]": "20 км/год"
+    "Odpowiedź C [UA]": "20 км/год",
+    "Media": ""
   },
   {
     "Lp.": 1893,
     "Numer pytania": 13067,
     "Pytanie": "Czy w tej sytuacji masz obowiązek ustąpienia pierwszeństwa pieszemu?",
     "Poprawna odp": "Tak",
-    "Media": "4 dod.mp4",
+    "Media": "4 dod.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1"],
     "Pytanie [ENG]": "In this situation, are you obliged to yield the right of way to the pedestrian?",
     "Pytanie [DE]": "Sollen Sie in dieser Situation dem Fußgänger den Vorrang gewähren?",
@@ -27638,7 +27817,7 @@
     "Numer pytania": 13069,
     "Pytanie": "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?",
     "Poprawna odp": "Nie",
-    "Media": "2 dod.mp4",
+    "Media": "2 dod.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, is it enough if you only exercise extreme caution?",
     "Pytanie [DE]": "Reicht es in dieser Situation aus, dass Sie besonders vorsichtig sind?",
@@ -27650,7 +27829,7 @@
     "Numer pytania": 13070,
     "Pytanie": "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?",
     "Poprawna odp": "Nie",
-    "Media": "2-9.mp4",
+    "Media": "2-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Are you obliged in this situation to reduce your speed?",
     "Pytanie [DE]": "Sollen Sie in dieser Situation die Geschwindigkeit reduzieren?",
@@ -27662,7 +27841,7 @@
     "Numer pytania": 13071,
     "Pytanie": "Czy w tej sytuacji masz obowiązek zachować jedynie ostrożność?",
     "Poprawna odp": "Nie",
-    "Media": "2-9.mp4",
+    "Media": "2-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, are you only obliged to be cautious?",
     "Pytanie [DE]": "Sollen Sie in dieser Situation nur vorsichtig sein?",
@@ -27674,7 +27853,7 @@
     "Numer pytania": 13072,
     "Pytanie": "Czy w tej sytuacji, zbliżając się do przejścia dla pieszych, masz obowiązek zmniejszyć prędkość?",
     "Poprawna odp": "Nie",
-    "Media": "3-9.mp4",
+    "Media": "3-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Are you obliged in this situation to reduce your speed when approaching a pedestrian crossing?",
     "Pytanie [DE]": "Sollen Sie beim Ankommen zum Fußgängerüberweg die Geschwindigkeit reduzieren?",
@@ -27686,7 +27865,7 @@
     "Numer pytania": 13074,
     "Pytanie": "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?",
     "Poprawna odp": "Nie",
-    "Media": "5-9.mp4",
+    "Media": "5-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, if you do not see other road users, are you absolved of the obligation to exercise extra caution?",
     "Pytanie [DE]": "Können Sie in dieser Situation, wenn Sie keine anderen Verkehrsteilnehmer sehen, von besonderer Vorsicht absehen?",
@@ -27698,7 +27877,7 @@
     "Numer pytania": 13076,
     "Pytanie": "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?",
     "Poprawna odp": "Tak",
-    "Media": "6-9.mp4",
+    "Media": "6-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, is it permissible to drive through the intersection without reducing the vehicle speed?",
     "Pytanie [DE]": "Ist in dieser Situation die Fahrt über die Kreuzung erlaubt, ohne die Fahrzeuggeschwindigkeit zu senken?",
@@ -27710,7 +27889,7 @@
     "Numer pytania": 13080,
     "Pytanie": "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?",
     "Poprawna odp": "Nie",
-    "Media": "5-9.mp4",
+    "Media": "5-9.2021 bis.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Does the \"give way\" sign placed before the intersection apply in this situation?",
     "Pytanie [DE]": "Findet in dieser Situation das Verkehrszeichen \"Vorrang gewähren\" vor der Kreuzung die Anwendung?",
@@ -27722,7 +27901,7 @@
     "Numer pytania": 13082,
     "Pytanie": "Czy w tej sytuacji przejeżdżając na wprost przez skrzyżowanie, możesz zrezygnować z zachowania szczególnej ostrożności?",
     "Poprawna odp": "Nie",
-    "Media": "7-9.mp4",
+    "Media": "7-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, when driving straight through an intersection, can you refrain from taking extra care?",
     "Pytanie [DE]": "Dürfen Sie beim Geradeausfahren über die Kreuzung von besonderer Vorsicht absehen?",
@@ -27734,7 +27913,7 @@
     "Numer pytania": 13085,
     "Pytanie": "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?",
     "Poprawna odp": "Nie",
-    "Media": "3-9.mp4",
+    "Media": "3-9.2021 bis.mp4",
     "Kategorie": ["B"],
     "Pytanie [ENG]": "In this situation, are you permitted to make a U-turn if you are sure it will not obstruct other traffic users?",
     "Pytanie [DE]": "Darf man in dieser Situation umkehren, soweit man den anderen Verkehrsteilnehmern die Fahrt nicht behindert?",
@@ -27761,14 +27940,15 @@
     "Pytanie [UA]": "З якою максимальною швидкістю Ви можете буксирувати інший транспортний засіб?",
     "Odpowiedź A [UA]": "50 км/год у межах забудови населеного пункту.",
     "Odpowiedź B [UA]": "60 км/год поза зоною забудови населеного пункту.",
-    "Odpowiedź C [UA]": "80 км/год на дорозі, що має 2 проїжджі частини і не менше двох смуг для кожного напрямку руху."
+    "Odpowiedź C [UA]": "80 км/год на дорозі, що має 2 проїжджі частини і не менше двох смуг для кожного напрямку руху.",
+    "Media": ""
   },
   {
     "Lp.": 1904,
     "Numer pytania": 13091,
     "Pytanie": "Czy w tej sytuacji, zbliżając się do skrzyżowania, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?",
     "Poprawna odp": "Nie",
-    "Media": "5-9.mp4",
+    "Media": "5-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, when approaching an intersection, are you absolved from the obligation of exercising extreme caution?",
     "Pytanie [DE]": "Wenn Sie in dieser Situation an eine Kreuzung kommen, dürfen Sie von besonderer Vorsicht absehen?",
@@ -27780,7 +27960,7 @@
     "Numer pytania": 13092,
     "Pytanie": "Czy w przedstawionej sytuacji należy zachować szczególną ostrożność?",
     "Poprawna odp": "Nie",
-    "Media": "8-9.mp4",
+    "Media": "8-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Should you exercise extra caution in the situation presented?",
     "Pytanie [DE]": "Sollen Sie in dieser Situation besonders vorsichtig sein?",
@@ -27792,7 +27972,7 @@
     "Numer pytania": 13093,
     "Pytanie": "Czy przejeżdżając obok widocznego przystanku tramwajowego jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?",
     "Poprawna odp": "Nie",
-    "Media": "4-9.mp4",
+    "Media": "4-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "When driving past the visible tram stop, are you absolved from the obligation to exercise extra caution?",
     "Pytanie [DE]": "Sind Sie beim Vorbeifahren an dieser Haltestelle von besonderer Vorsicht freigestellt?",
@@ -27804,7 +27984,7 @@
     "Numer pytania": 13094,
     "Pytanie": "Czy podczas cofania, przy braku innych uczestników ruchu na tym odcinku drogi, możesz zrezygnować z zachowania szczególnej ostrożności?",
     "Poprawna odp": "Nie",
-    "Media": "9-9.mp4",
+    "Media": "9-9.2021.mp4",
     "Kategorie": ["A", "B", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "When reversing, in the absence of other road users on this stretch of road, can you refrain from exercising extra caution?",
     "Pytanie [DE]": "Können Sie beim Rückwärtsfahren ohne andere Verkehrsteilnehmer auf dieser Strecke von besonderer Vorsicht absehen?",
@@ -27816,7 +27996,7 @@
     "Numer pytania": 13095,
     "Pytanie": "Czy w tej sytuacji możesz nie zachowywać szczególnej ostrożności?",
     "Poprawna odp": "Tak",
-    "Media": "10-9.mp4",
+    "Media": "10-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Can you refrain from exercising extra caution in this situation?",
     "Pytanie [DE]": "Dürfen Sie in dieser Situation ohne besondere Vorsicht fahren?",
@@ -27828,7 +28008,7 @@
     "Numer pytania": 13096,
     "Pytanie": "Czy w tej sytuacji powinieneś zmniejszyć prędkość i zachować szczególną ostrożność?",
     "Poprawna odp": "Nie",
-    "Media": "10-9.mp4",
+    "Media": "10-9.2021.mp4",
     "Kategorie": ["B", "C", "D", "C1", "D1"],
     "Pytanie [ENG]": "Should you reduce your speed and exercise extra caution in this situation?",
     "Pytanie [DE]": "Sollen Sie in dieser Situation die Geschwindigkeit reduzieren und besonders vorsichtig sein?",
@@ -27840,7 +28020,7 @@
     "Numer pytania": 13097,
     "Pytanie": "Czy w tej sytuacji powinieneś zachować szczególną ostrożność i zmniejszyć prędkość?",
     "Poprawna odp": "Nie",
-    "Media": "11-9.mp4",
+    "Media": "11-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Should you exercise extra caution and reduce your speed in this situation?",
     "Pytanie [DE]": "Sollen Sie in dieser Situation die Geschwindigkeit reduzieren und besonders vorsichtig sein?",
@@ -27852,7 +28032,7 @@
     "Numer pytania": 13099,
     "Pytanie": "Czy w tej sytuacji powinieneś zachować ograniczone zaufanie wobec wyprzedzanego rowerzysty, który nie trzyma rąk na kierownicy?",
     "Poprawna odp": "Tak",
-    "Media": "13-9.mp4",
+    "Media": "13-9.2021.mp4",
     "Kategorie": ["A", "B", "C", "D", "T", "AM", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "In this situation, should you exercise limited confidence in the cyclist you are overtaking, whose hands are not on the handlebars?",
     "Pytanie [DE]": "Sollen  Sie in dieser Situation gegenüber dem den Lenker nicht haltenden Radfahrer beim Überholen begrenztes Vewrtrauen haben?",
@@ -28597,7 +28777,8 @@
     "Pytanie [UA]": "За умови дотримання якої з наведених умов, дитину зростом менше 150 см можна перевозити в легковому автомобілі без дитячого автокрісла або іншого утримуючого пристрою?",
     "Odpowiedź A [UA]": "Якщо швидкість автомобіля не перевищуватиме 40 км/год.",
     "Odpowiedź B [UA]": "Якщо дитина має медичну довідку про протипоказання до перевезення в автокріслі чи іншому утримуючому пристрої.",
-    "Odpowiedź C [UA]": "Транспортний засіб має додаткові позначення, які вказують на те, що в ньому перевозиться дитина."
+    "Odpowiedź C [UA]": "Транспортний засіб має додаткові позначення, які вказують на те, що в ньому перевозиться дитина.",
+    "Media": ""
   },
   {
     "Lp.": 1972,
@@ -28733,7 +28914,8 @@
     "Pytanie [UA]": "Що повинен зробити водій транспортного засобу, перед яким  особа з явними ознаками обмеженої  рухової здатності  переходить дорогу поза межами пішохідного переходу?",
     "Odpowiedź A [UA]": "Має обов’язок зупинити свій транспортний засіб, щоб дати можливість цій особі  перейти дорогу.",
     "Odpowiedź B [UA]": "Повинен застосувати звуковий сигнал.",
-    "Odpowiedź C [UA]": "Може проїхати повз пішохода, який рухається поволі, тобто обминути його."
+    "Odpowiedź C [UA]": "Може проїхати повз пішохода, який рухається поволі, тобто обминути його.",
+    "Media": ""
   },
   {
     "Lp.": 1983,
@@ -28755,7 +28937,8 @@
     "Pytanie [UA]": "Що повинен зробити водій транспортного засобу паркуючись поряд з місцем, призначеним для транспортного засобу особи з інвалідністю:",
     "Odpowiedź A [UA]": "має залишити одне паркувальне місце вільним.",
     "Odpowiedź B [UA]": "зобов'язаний застосовувати спосіб паркування, визначений дорожніми знаками,",
-    "Odpowiedź C [UA]": "може зайняти частину паркувального місця, призначеного для транспортного засобу особи з інвалідністю, оскільки воно є більшим за розміром, ніж інші паркувальні місця."
+    "Odpowiedź C [UA]": "може зайняти частину паркувального місця, призначеного для транспортного засобу особи з інвалідністю, оскільки воно є більшим за розміром, ніж інші паркувальні місця.",
+    "Media": ""
   },
   {
     "Lp.": 1984,
@@ -28777,7 +28960,8 @@
     "Pytanie [UA]": "З обов’язку застосовувати ремінь безпеки в легковому автомобілі звільняється особа:",
     "Odpowiedź A [UA]": "яка перевозить дитину в дитячому автокріслі,",
     "Odpowiedź B [UA]": "з інвалідністю, яка перевозиться в інвалідному візку",
-    "Odpowiedź C [UA]": "яка відчуває себе скованою ременями."
+    "Odpowiedź C [UA]": "яка відчуває себе скованою ременями.",
+    "Media": ""
   },
   {
     "Lp.": 1985,
@@ -28810,7 +28994,8 @@
     "Pytanie [UA]": "Побачивши особу з білою тростиною, яка переходить дорогу, Ви повинні:",
     "Odpowiedź A [UA]": "зупинити свій транспортний засіб і дати можливість цій особі перейти дорогу",
     "Odpowiedź B [UA]": "застосувати звуковий сигнал, якщо ця особа переходить дорогу поза визначеним пішохідним переходом",
-    "Odpowiedź C [UA]": "перейти на вищу передачу, без огляду на ситуацію"
+    "Odpowiedź C [UA]": "перейти на вищу передачу, без огляду на ситуацію",
+    "Media": ""
   },
   {
     "Lp.": 1987,
@@ -28820,7 +29005,8 @@
     "Kategorie": ["A", "B", "C", "D", "A1", "A2", "B1", "C1", "D1"],
     "Pytanie [ENG]": "Should you assume that a disabled person walking on the pavement (pedestrian way) will not adhere to traffic rules?",
     "Pytanie [DE]": "Solltest du bei einer behinderten Person, die auf dem Bürgersteig (Fußgängerweg) geht, davon ausgehen, dass sie sich nicht an die Verkehrsregeln hält?",
-    "Pytanie [UA]": "Чи у разі кожної особи з інвалідністю, яка йде по тротуару (пішохідній доріжці), Ви повинні вважати, що вона не буде дотримуватися правил дорожнього руху?"
+    "Pytanie [UA]": "Чи у разі кожної особи з інвалідністю, яка йде по тротуару (пішохідній доріжці), Ви повинні вважати, що вона не буде дотримуватися правил дорожнього руху?",
+    "Media": ""
   },
   {
     "Lp.": 1988,
@@ -28830,7 +29016,8 @@
     "Kategorie": ["A", "B", "C", "D", "AM", "A1", "A2", "C1", "D1"],
     "Pytanie [ENG]": "When a disabled person or someone with visibly reduced mobility enters a pedestrian crossing with a special sign, should you anticipate having to stop your vehicle?",
     "Pytanie [DE]": "Solltest du bei der Annäherung an einen Fußgängerüberweg, den eine behinderte Person mit einem speziellen Schild oder eine Person mit offensichtlich eingeschränkter Mobilität betritt, damit rechnen, dass du dein Fahrzeug anhalten musst?",
-    "Pytanie [UA]": "Чи наближаючись до пішохідного переходу, на який входить особа з інвалідністю, яка застосовує спеціальний знак, що інформує про це, або особа з явною обмеженою рухливістю, Ви повинні брати до уваги, що Вам доведеться зупинити свій транспортний засіб?"
+    "Pytanie [UA]": "Чи наближаючись до пішохідного переходу, на який входить особа з інвалідністю, яка застосовує спеціальний знак, що інформує про це, або особа з явною обмеженою рухливістю, Ви повинні брати до уваги, що Вам доведеться зупинити свій транспортний засіб?",
+    "Media": ""
   },
   {
     "Lp.": 1989,
@@ -28840,7 +29027,8 @@
     "Kategorie": ["B"],
     "Pytanie [ENG]": "Can you exceed the speed limit by no more than 10km/h when transporting a disabled person with a parking permit?",
     "Pytanie [DE]": "Darf man die Geschwindigkeitsbegrenzung um bis zu 10 km/h überschreiten, wenn man eine behinderte Person mit einem Parkausweis transportiert?",
-    "Pytanie [UA]": "Чи можна перевищити швидкість не більше ніж на 10 км/год. при перевезенні особи з інвалідністю, яка має паркувальну картку інваліда?"
+    "Pytanie [UA]": "Чи можна перевищити швидкість не більше ніж на 10 км/год. при перевезенні особи з інвалідністю, яка має паркувальну картку інваліда?",
+    "Media": ""
   },
   {
     "Lp.": 1990,

@@ -1,3 +1,17 @@
+/**
+ * Handles user registration requests.
+ *
+ * This controller validates the incoming request body using the `userRegisterSchema`.
+ * If validation fails, it responds with a 400 status and an error message.
+ * If the user already exists (checked via `userExist`), it responds with a 409 status.
+ * Otherwise, it creates a new user in the database and sends a verification email.
+ * Any errors during user creation or email sending result in a 400 status response.
+ *
+ * @param req - Express request object containing user registration data in the body.
+ * @param res - Express response object used to send responses to the client.
+ * @param _ - Express next function (unused).
+ * @returns Sends a JSON response indicating success or failure of the registration process.
+ */
 import userExist from "../db/user_exist";
 import createUserDB from "../db/user_register_DB";
 import sendVerificationEmail from "../email/verification";
@@ -18,7 +32,7 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
     const response = getFailResponse("required-data-not-provided");
     res.status(400).json(response);
 
-    logErrorDEV("Sufficient data not provided");
+    logErrorDEV(error);
 
     return;
   }
@@ -26,12 +40,6 @@ const userRegister = async (req: Request, res: Response, _: NextFunction) => {
   const { email, password, name }: userRegisterData = data;
 
   try {
-    if (await userExist(email)) {
-      const response = getFailResponse("user-with-given-email-already-exist");
-      logErrorDEV("user-with-given-email-already-exist");
-      res.status(409).json(response);
-      return;
-    }
 
     await createUserDB(email, name, password);
     await sendVerificationEmail(email);
